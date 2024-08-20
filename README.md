@@ -1,10 +1,4 @@
-# swapnilyavalkar
-
-Since I can't directly access the content from the link, I'll provide you with a general template for a professional and visually appealing `README.md` file based on your skills and experience. You can customize it further by referring to the best practices from the GitHub profile beautification guide.
-
----
-
-# 💻 **[Your Name]**
+# 💻 **[Swapnil Yavalkar]**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat) 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
@@ -13,10 +7,10 @@ Since I can't directly access the content from the link, I'll provide you with a
 ---
 
 ### 🌐 **About Me**
-I am a seasoned **AWS Cloud Engineer** with over 15 years of experience in IT, specializing in **AWS Cloud Administration**, **SAP BO & Tableau** administration, and **DevOps**. My skill set includes:
+I am a seasoned **AWS Cloud Engineer** with over 13+ years of experience in IT, specializing in **AWS Cloud Administration**, **SAP BO & Tableau** administration, and **DevOps**. My skill set includes:
 
 - **Languages**: Java, Python, Shell Scripting, PowerShell
-- **Cloud**: AWS (EC2, S3, RDS, VPC)
+- **Cloud**: IAM, EC2, ELB, ASG, VPC, S3, Route 53, RDS, CloudWatch, SNS, SQS, Lambada, DynamoDB, CloudFront, CloudFormation, Redshift, Elastic Cache, WAF, Kubernetes administration.
 - **DevOps**: CI/CD with Jenkins
 - **Certifications**: SCJP, CCNA
 
@@ -39,14 +33,12 @@ Here are some of the projects I've worked on:
 
 - **[AWS Cost Optimization](#)**: Implemented cost-saving strategies using EC2 Spot Instances and RI.
 - **[CI/CD with Jenkins](#)**: Streamlined deployment pipelines to enhance reliability and speed.
-- **[ServiceNow Ticket Analysis](#)**: Leveraged Tableau for in-depth analysis of service tickets to identify recurring issues and optimization opportunities.
 
 ---
 
 ### 📫 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnily)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnilyavalkar1110x)
 
 ---
 
@@ -57,7 +49,3 @@ Here are some of the projects I've worked on:
 
 ### 🏆 **GitHub Trophies**
 ![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
-
----
-
-This template provides a professional and engaging look for your GitHub profile. You can customize the links, images, and project details to match your personal projects and achievements.
