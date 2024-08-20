@@ -1,4 +1,4 @@
-# 💻 **[Swapnil Yavalkar]**
+# 💻 **Swapnil Yavalkar**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat) 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
