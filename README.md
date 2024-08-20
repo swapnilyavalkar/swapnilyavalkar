@@ -73,3 +73,10 @@ Here are some of the projects I've worked on:
 
 ### 🏆 **GitHub Trophies**
 ![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+![Stars](https://img.shields.io/github/stars/swapnilyavalkar1110x?style=social)
+![Comments](https://img.shields.io/github/issues/comment?label=comments&username=swapnilyavalkar1110x&style=social)
+![Reactions](https://img.shields.io/github/repo-stars/swapnilyavalkar1110x/reponame?style=social)
