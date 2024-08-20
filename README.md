@@ -13,6 +13,7 @@ I am a seasoned **AWS Cloud Engineer** with over 13+ years of experience in IT, 
 - **Cloud**: IAM, EC2, ELB, ASG, VPC, S3, Route 53, RDS, CloudWatch, SNS, SQS, Lambada, DynamoDB, CloudFront, CloudFormation, Redshift, Elastic Cache, WAF, Kubernetes administration.
 - **DevOps**: CI/CD with Jenkins
 - **Certifications**: SCJP, CCNA
+- **Other Tools**: PL SQL Developer, Burp suit, Click Jacking Tools, Process Monitor, WinSCP, Putty, Process Explorer, Repository Scanner, Repository Master, WireShark, Fiddler, LogShark, Splunk.
 
 ---
 
@@ -33,6 +34,21 @@ Here are some of the projects I've worked on:
 
 - **[AWS Cost Optimization](#)**: Implemented cost-saving strategies using EC2 Spot Instances and RI.
 - **[CI/CD with Jenkins](#)**: Streamlined deployment pipelines to enhance reliability and speed.
+
+---
+
+**Automations Performed**:
+- SSL Cert Monitoring.
+- Daily Viewer Access Assignment.
+- Alert for Notifying inactive users.
+- Marking inactive users as unlicensed.
+- Removal of subscriptions of unlicensed users.
+- Removal of staled workbooks.
+- Design Auditor.
+- Adding Bulk users on Tableau Server.
+- Syncing users between Prod and QA.
+- Backup Process using Python Script.
+- Tableau Access Form - Service Now and Tableau.
 
 ---
 
