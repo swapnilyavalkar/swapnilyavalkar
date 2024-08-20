@@ -24,8 +24,16 @@ I am a seasoned **AWS Cloud Engineer** with over 13+ years of experience in IT, 
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%2312100E.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![SAP BO](https://img.shields.io/badge/SAP%20BO-%2381D8D0.svg?style=for-the-badge)
+![SAP B](https://img.shields.io/badge/SAP%20BO-%2381D8D0.svg?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+### 🏆 **Noteworthy Achievements**
+- Successfully executed 150+ End-to-End Implementations/Installations of Tableau and BO Servers.
+- Conducted Installations, Upgrades, and Migrations for Tableau and SAP BO XI R2/3.1 to SAP BI4.1/4.2 servers for 70+ clients, configuring 140+ environments (PROD/UAT).
+- Deployed a multi-node Highly Available Tableau environment on AWS, including full VPC setup, EC2, RDS, S3, IAM configurations, and system performance monitoring with CloudWatch.
+- Deployed LAMP-based applications in AWS environments, including provisioning MySQL-RDS and establishing connectivity with EC2 instances.
 
 ---
 
@@ -53,7 +61,7 @@ Here are some of the projects I've worked on:
 ---
 
 ### 📫 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnily)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnilyavalkar)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnilyavalkar1110x)
 
 ---
