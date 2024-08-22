@@ -1,9 +1,9 @@
 ![mybanner](https://github.com/user-attachments/assets/f39c68e6-56b3-4b05-b860-12cd82df02c6)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat) 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=swapnilyavalkar&label=Profile%20views&color=0e75b6&style=flat) 
+![GitHub followers](https://img.shields.io/github/followers/swapnilyavalkar?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/swapnilyavalkar?label=Stars)
 
 ---
 
@@ -68,12 +68,12 @@ Here are some of the projects I've worked on:
 ---
 
 ### 📊 **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilyavalkar&show_icons=true&theme=radical)
 
 ---
 
 ### 🏆 **GitHub Trophies**
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=swapnilyavalkar&theme=radical)
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilyavalkar1110x&layout=compact&theme=radical)
