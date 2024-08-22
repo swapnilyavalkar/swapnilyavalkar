@@ -63,7 +63,7 @@ Here are some of the projects I've worked on:
 
 ### 📫 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnilyavalkar)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnilyavalkar1110x)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnilyavalkar)
 
 ---
 
@@ -76,4 +76,4 @@ Here are some of the projects I've worked on:
 ![trophy](https://github-profile-trophy.vercel.app/?username=swapnilyavalkar&theme=radical)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilyavalkar1110x&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilyavalkar&layout=compact&theme=radical)
