@@ -8,7 +8,7 @@
 
 ### 👋 **Welcome!**
 
-**Empowering businesses with cloud solutions and automation 🚀 | AWS DevOps Enthusiast | 13+ years of BI expertise**
+**Empowering businesses with cloud solutions and automation 🚀 | AWS DevOps Professional | 13+ years of BI expertise**
 
 Hi, I’m **Swapnil Yavalkar**, a Senior AWS Cloud Engineer with over **7 years of experience in AWS & DevOps** and **13 years of expertise in Tableau & SAP BO administration**. I specialize in **building scalable, resilient infrastructure** and automating processes for maximum efficiency.
 
@@ -16,7 +16,7 @@ Hi, I’m **Swapnil Yavalkar**, a Senior AWS Cloud Engineer with over **7 years 
 
 ### 🌟 **About Me**
 
-💻 **Cloud & DevOps Engineer** | 🏆 **CCNA Certified** | 🏆 **SCJP Certified** | 🔧 **Automation Expert**
+💻 **Cloud & DevOps Engineer** | 🔧 **Automation Expert**
 
 With a solid foundation in **AWS, DevOps, and cloud computing**, I’ve helped several organizations reduce costs, automate infrastructure, and build robust CI/CD pipelines. My previous experience in **Tableau and SAP BO administration** has also allowed me to implement large-scale BI solutions for enterprise clients.
 
@@ -24,8 +24,6 @@ With a solid foundation in **AWS, DevOps, and cloud computing**, I’ve helped s
 
 ### 🏆 **Certifications**
 
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-blue?style=for-the-badge)  
-🏅 **AWS Certified Solutions Architect**  
 🎓 **SCJP** (Sun Certified Java Programmer)  
 🎓 **CCNA** (Cisco Certified Network Associate)
 
@@ -39,15 +37,15 @@ With a solid foundation in **AWS, DevOps, and cloud computing**, I’ve helped s
 
 ---
 
-### 🚀 **Highlighted Real-World Projects**
+### 🚀 **Completed Projects**
 
-Here are some **real-world projects** that showcase my experience in AWS and DevOps:
+Here are some **completed projects** that showcase my experience in AWS and DevOps:
 
 1. **Cloud Infrastructure Optimization for E-commerce Platform**  
    *Optimized AWS cloud infrastructure for a global e-commerce company, reducing costs by 30% using EC2 Spot Instances and RIs, while automating the environment with CloudFormation templates.*  
    **Technologies**: AWS (EC2, RDS, S3, CloudFormation), Jenkins, Docker.
 
-2. **CI/CD Pipeline Implementation for FinTech Company**  
+2. **CI/CD Pipeline Implementation for one of the clients**  
    *Designed and implemented a full CI/CD pipeline using Jenkins for an online payment processing firm, reducing deployment times by 50% and improving software delivery efficiency.*  
    **Technologies**: Jenkins, Docker, Kubernetes, AWS ECS.
 
@@ -63,23 +61,36 @@ Here are some **real-world projects** that showcase my experience in AWS and Dev
    *Implemented a data lake architecture using S3 and AWS Glue for a media streaming service to centralize and process streaming analytics data.*  
    **Technologies**: AWS S3, AWS Glue, Athena.
 
-*(These projects are inspired by real-world use cases from my experience.)*
-
 ---
 
 ### ✨ **Client Testimonials**
 
 Here’s what my clients have to say about my work:
 
+- **Surajit Bhowmick - AWS Cloud Specialist | Senior DevOps Consultant | DevSecOps | Kubernetes | Terraform | CI-CD | Prometheus & Grafana | Linux**:
+
+It’s rare that you come across standout talent like Swapnil. He is one of the most dedicated professionals I’ve worked with and is willing to put that extra help whenever you need it. His expertise in AWS, DevOps, BO & Tableau is commendable, and it helped our team come up with more efficient solutions in all the projects. His contribution is valuable to the side, and I highly recommend Swapnil and would love to work with him again. He will be a valuable asset to any company!
+
+- **Subhash A Kotian - Product Support Head at LearningMateProduct, Support Head at LearningMate**:
+I have worked with Swapnil for about 7 years or more. While he has worked on a separate team, we had regular professional interactions. While he is excellent at his work - he is also able to manage pressure with ease. He is systematic, diligent and focused. 
+
+He gets along very well with the team and is able to manage everyone professionally. While he is easy to work with, he is also able to communicate effectively challenges while setting and managing teams expectations.
+
+As he is a excellent team player, it was great working with him.
+
+- **Abdul Moaeen Belgaumwala - End to End Customer Engagement•Consultant•Business/Requirement/Quality Analyst•Trainer/Mentor•CSPO•IATA Diploma**:
+
+Swapnil is a very proactive and knowledge centric resource. He jas been an asset to the team. Any work assigned to him is taken very responsibly and well co-ordinated till the work is completed or the concern is addresses/resolved
+
+- **Sanket Shah - Project manager, Sanket managed Swapnil directly**:
+
+Swapnil is excellent asset for any organization, his knowledge on BO and Tableau is commendable. He is the person I have seen where there is no end to learning, he keep on learning new things. Very dedicated and focused towards his work. You will shine where ever you go. Personally excellent person and friend as well.
+
+- **Sandesh Kortikar - Senior Delivery ManagerSenior Delivery Manager**:
+
+Since I know Swapnil, I always found him to be very dedicated, self motivated and go getter fella. He is very sincere in his work and keeps on Innovating some or the other thing to ease out everyone's life in team. Technically very good and he us quite fast learner. I wish him all the best in his future endeavors.
+
 - 🗣️ You can find recommendations on my **[LinkedIn profile](https://www.linkedin.com/in/swapnilyavalkar/recommendations/)**.
-
----
-
-### 🔗 **Architecture Diagram Example**
-
-Here’s an architecture diagram of one of my recent cloud infrastructure projects:
-
-![AWS Architecture Example](https://miro.medium.com/max/1400/1*aa_sBqaM5OnQ2Lpg2McdgA.png)
 
 ---
 
@@ -124,37 +135,59 @@ Here are some of my **community contributions** and **open-source repositories**
 
 ---
 
-### ⚙️ **Automation & Tools**
-
-Here are some custom automations I’ve built for various client needs:
-
-- 🗝 **SSL Certificate Monitoring**: Automated script to check SSL expiration dates and send alerts.
-- 💾 **Daily Viewer Access Assignment**: Automates Tableau server access management based on activity.
-- 🚨 **Inactive User Alert**: Identifies inactive users and manages licenses in Tableau environments.
-
----
-
 ### 🛠️ **Code Snippets**
 
 Here's a simple **Python script** I created to automate SSL Certificate Monitoring:
 
 ```python
-import ssl
-import socket
-from datetime import datetime
+import pandas as pd
+import tableauserverclient as TSC
+import logging
+import time
+import os
+import datetime
 
-def ssl_expiry(domain):
-    context = ssl.create_default_context()
-    with socket.create_connection((domain, 443)) as sock:
-        with context.wrap_socket(sock, server_hostname=domain) as ssock:
-            cert = ssock.getpeercert()
-            expire_date = cert['notAfter']
-            expire_date = datetime.strptime(expire_date, "%b %d %H:%M:%S %Y GMT")
-            return expire_date
+# Define the log directory path where the files are located
+directory_path = "logs/"
 
-domain = 'example.com'
-expiry = ssl_expiry(domain)
-print(f"The SSL certificate for {domain} expires on {expiry}")
+# Define the threshold time to delete files that are older than 10 days
+threshold_time = datetime.datetime.now() - datetime.timedelta(days=10)
+
+""" SPECIFY TABLEAU SERVER LOGIN DETAILS BELOW """
+server_url = ''
+sites = ''
+username = ''
+password = ''
+
+LOG_FILE_GEN_TIME = time.strftime("%Y%m%d-%H%M%S")
+
+logging.basicConfig(
+    level=logging.DEBUG,
+    format='%(asctime)s, %(levelname)-8s [%(filename)s:%(module)s:%(funcName)s:%(name)s:%(lineno)d] %(message)s',
+    datefmt='%Y-%m-%d:%H:%M:%S',
+    filename='logs/SubscriptionsRemoval{0}.log'.format(LOG_FILE_GEN_TIME),
+    filemode='a'
+)
+
+logger = logging.getLogger(__name__)
+
+
+def delete_logs():
+    global directory_path
+    # Loop through all files in the logs directory
+    try:
+        for file_name in os.listdir(directory_path):
+            # Get the creation time of the file
+            file_path = os.path.join(directory_path, file_name)
+            creation_time = datetime.datetime.fromtimestamp(os.path.getctime(file_path))
+            # Check if the file is older than the threshold time
+            if creation_time < threshold_time:
+                # Delete the file if it's older than the threshold time
+                os.remove(file_path)
+                print(f"Log Deleted file: {file_name}")
+                logger.info(f"Log file older than 10 days deleted file: {file_name}")
+    except Exception as e:
+        logging.error(f"Error while deleting log files: {str(e)}")
 ```
 ---
 
