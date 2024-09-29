@@ -139,17 +139,6 @@ domain = 'example.com'
 expiry = ssl_expiry(domain)
 print(f"The SSL certificate for {domain} expires on {expiry}")
 ```
-
----
-
-### 🔥 **Animated GIF Example**
-
-Here’s a fun **animated GIF** representing cloud deployment scaling:
-
-![Cloud Deployment](https://media.giphy.com/media/xT9IgzoKnwFNmISR8
-
-I/giphy.gif)
-
 ---
 
 ### 📬 **Let’s Connect**
