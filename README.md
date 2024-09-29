@@ -83,18 +83,35 @@ Here’s an architecture diagram of one of my recent cloud infrastructure projec
 
 ---
 
-### 📂 **Highlighted Repositories / My Community Work**
+### 📂 **My Community Work**
 
 Here are some of my **community contributions** and **open-source repositories**:
 
-| Repository | Description |
-|------------|-------------|
-| [AWS DevOps Real-World Projects](https://github.com/swapnilyavalkar/aws-devops-realworld-projects) | Real-world examples of AWS & DevOps solutions. |
-| [AWS Features Explorer App](https://github.com/swapnilyavalkar/aws-features-explorer-app) | Explore AWS services interactively. |
-| [AWS Lambda Contact Form](https://github.com/swapnilyavalkar/aws-lambda-contact-form) | Serverless contact form using AWS Lambda and API Gateway. |
-| [Disk Space Monitoring](https://github.com/swapnilyavalkar/disk-space-monitoring) | Python-based disk space monitoring script with alerts. |
-| [DynamicWeb NodeApp](https://github.com/swapnilyavalkar/dynamicweb-nodeapp) | A dynamic web app using Node.js to show server details. |
-| [Streamlit Time Series Forecasting App](https://github.com/swapnilyavalkar/streamlit-time-series-forecasting-app) | A web app for time series forecasting using Streamlit. |
+| **Repository** | **Description** |
+|----------------|-----------------|
+| [AWS DevOps Real-World Projects](https://github.com/swapnilyavalkar/aws-devops-realworld-projects) | This repository offers a comprehensive collection of AWS and DevOps projects inspired by real-world use cases from companies like Netflix and Airbnb. It serves as a practical learning platform for designing, deploying, and managing AWS cloud infrastructure using DevOps tools. Ideal for developers, cloud enthusiasts, and students aiming to master AWS services. |
+| [AWS Features Explorer App](https://github.com/swapnilyavalkar/aws-features-explorer-app) | A dynamic web app designed to explore various AWS services through hands-on features like file uploads, API interactions, and monitoring. It streamlines infrastructure tasks, microservices deployments, and data analytics with a user-friendly interface for efficient management. |
+| [AWS Lambda Contact Form](https://github.com/swapnilyavalkar/aws-lambda-contact-form) | A serverless contact form solution using AWS Lambda, API Gateway, and SNS to handle form submissions. The app processes data with Lambda and sends notifications through SNS, containerized with Docker and deployed on ECS for scalability and reliability. |
+| [Disk Space Monitoring](https://github.com/swapnilyavalkar/disk-space-monitoring) | A PowerShell script that monitors disk space on remote servers and sends email alerts when space is low. It also handles log management by deleting large or outdated logs, automating system maintenance tasks. |
+| [DynamicWeb NodeApp](https://github.com/swapnilyavalkar/dynamicweb-nodeapp) | A dynamic Node.js web application featuring both static and dynamic content. The app includes a sample API serving dynamic data, showcasing web development capabilities in Node.js. |
+| [Grafana](https://github.com/swapnilyavalkar/grafana) | This repository is designed for creating customized dashboards using Grafana. It helps visualize system metrics and performance data for effective monitoring and decision-making. |
+| [Password Reset](https://github.com/swapnilyavalkar/passwordreset) | An automated web application for resetting user passwords on SAP BI4.1 servers. It simplifies the password reset process for administrators and enhances security through automation. |
+| [Prometheus](https://github.com/swapnilyavalkar/prometheus) | A repository focused on creating customized exporters for Prometheus. It aids in monitoring infrastructure metrics by exporting relevant data from various sources. |
+| [SAP BO Folder Report Structure](https://github.com/swapnilyavalkar/sap-bo-folder-report-structure) | A Java utility that extracts detailed information about reports from specific SAP BusinessObjects (BOBJ) folders and exports them to Excel. It helps administrators manage and audit report structures efficiently. |
+| [SAP BO Report Query Extraction Script](https://github.com/swapnilyavalkar/sap-bo-getting-sql-queries-webi-reports) | A Java-based script designed for extracting SQL queries from SAP BusinessObjects reports. It supports both Freehand SQL (FHSQL) and Universe-based reports, simplifying the auditing and management of report queries. |
+| [SAP BO Universe Reports Extractor](https://github.com/swapnilyavalkar/sap-bo-universe-reports-extractor) | A Java utility for extracting and listing reports linked to a specific universe in SAP BusinessObjects. The tool saves report details such as name, ID, type, and owner to an Excel file for easier management and analysis. |
+| [SSL Cert Monitoring](https://github.com/swapnilyavalkar/ssl-cert-monitoring) | A PowerShell script that monitors SSL certificates for specified URLs and sends email notifications when certificates are near expiration. The tool helps ensure timely renewal and avoids service disruptions. |
+| [Streamlit Time Series Forecasting App](https://github.com/swapnilyavalkar/streamlit-time-series-forecasting-app) | A customizable time-series data analysis app built with Streamlit. It enables users to visualize and forecast time-series data using interactive and intuitive visualizations. |
+| [System Resource Monitoring Web App](https://github.com/swapnilyavalkar/system-resource-monitoring-web-app) | A real-time system monitoring web app built with Spring Boot and Chart.js, providing insights into system health metrics such as CPU usage and memory through an interactive dashboard. Ideal for performance monitoring. |
+| [Tableau Change Bulk User Roles](https://github.com/swapnilyavalkar/tableau-change-bulk-user-roles) | A Python script that automates the process of updating bulk user roles on Tableau Server based on a CSV file. It connects to Tableau Server, checks roles, updates them as needed, and exports a detailed report of changes. |
+| [Tableau Delete Subscriptions](https://github.com/swapnilyavalkar/tableau-delete-subscriptions) | A script to automate the deletion of outdated subscriptions on Tableau Server. It connects to the server, removes subscriptions based on criteria, and cleans up log files, improving server performance and organization. |
+| [Tableau Server Backup](https://github.com/swapnilyavalkar/tableau-server-backup) | This Python script automates the backup process for Tableau Server, ensuring regular backups are securely stored. It handles daily or weekly backups, reducing manual intervention and ensuring data integrity. |
+| [Tableau Subscriptions Removal](https://github.com/swapnilyavalkar/tableau-subscriptions-removal) | A Python script that automates the removal of Tableau Server subscriptions for unlicensed users. It identifies inactive users, deletes their subscriptions, and sends notifications to both users and administrators. |
+| [Tableau Sync Users](https://github.com/swapnilyavalkar/tableau-sync--users) | A Python script to synchronize user roles between two Tableau Servers. It updates user roles on the target server, logs the changes, and sends email notifications to affected users and administrators. |
+| [Tableau Update DataSource Script](https://github.com/swapnilyavalkar/tableau-update-datasource-script) | This Python script automates the updating of data connections in Tableau Server. It retrieves data from a PostgreSQL database and updates the corresponding Tableau data connections, streamlining database management. |
+| [Tableau Metadata Extractor](https://github.com/swapnilyavalkar/tableau_metadata_extractor) | A collection of Python scripts designed to extract metadata from Tableau workbooks and data sources using the Tableau GraphQL API. It provides detailed insights into Tableau assets for better governance and auditing. |
+| [Task Management App](https://github.com/swapnilyavalkar/task-management-app) | A web application for managing and tracking weekly tasks and activities. The app provides features to organize, prioritize, and monitor tasks, helping users stay on top of their schedules. |
+| [UserDetails BI41](https://github.com/swapnilyavalkar/userdetailsbi41) | A set of automated tools for SAP BusinessObjects (BI4.1) administrators to assist with daily, weekly, and quarterly maintenance activities. The tools are compatible with any Service Pack of SAP BI4.1 and rely on JRE 8. |
 
 *(For the full list of repositories, check out [my GitHub profile](https://github.com/swapnilyavalkar?tab=repositories)).*
 
