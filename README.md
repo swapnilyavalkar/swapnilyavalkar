@@ -120,7 +120,7 @@ Here are some of my **community projects** and **open-source repositories**:
 ### 🐳 **Docker Hub**
 
 Check out my Docker images on **Docker Hub**:  
-[Swapnil Yavalkar's Docker Hub](https://hub.docker.com/repository/docker/swapnilyavalkar)
+[Swapnil Yavalkar's Docker Hub](https://hub.docker.com/u/swapnilyavalkar)
 
 ---
 
