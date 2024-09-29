@@ -16,7 +16,7 @@ Hi, I’m **Swapnil Yavalkar**, a Senior AWS Cloud Engineer with over **7 years 
 
 ### 🌟 **About Me**
 
-💻 **Cloud & DevOps Engineer** | 🏆 **Certified AWS Expert** | 🔧 **Automation Guru**
+💻 **Cloud & DevOps Engineer** | 🏆 **CCNA Certified** | 🏆 **SCJP Certified** | 🔧 **Automation Expert**
 
 With a solid foundation in **AWS, DevOps, and cloud computing**, I’ve helped several organizations reduce costs, automate infrastructure, and build robust CI/CD pipelines. My previous experience in **Tableau and SAP BO administration** has also allowed me to implement large-scale BI solutions for enterprise clients.
 
@@ -134,4 +134,4 @@ If you're interested in collaborating or just want to say hello, feel free to co
 
 ### 🔗 **Architecture Diagram Example**
 Here's an architecture diagram of one of my recent cloud infrastructure projects:
-![Architecture Example](https://user-images.githubusercontent.com/22376245/132873551-36d2df41-4af5-44ac-b92f-b73b9b9b5e25.png)
+![Architecture Example](https://132873551-36d2df41-4af5-44ac-b92f-b73b9b9b5e25.png)
