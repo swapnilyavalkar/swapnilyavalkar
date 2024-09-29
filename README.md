@@ -83,10 +83,6 @@ Here’s what my clients have to say about my work:
 
 ---
 
-Certainly! Here's the complete "My Open-Source Contributions" section with all your repositories from the README file:
-
----
-
 ### 📂 **My Open-Source Contributions**
 
 Here are some of my **community projects** and **open-source repositories**:
@@ -118,6 +114,13 @@ Here are some of my **community projects** and **open-source repositories**:
 | [UserDetails BI41](https://github.com/swapnilyavalkar/userdetailsbi41) | A collection of automated tools designed for SAP BusinessObjects (BI4.1) administrators to assist with daily, weekly, and quarterly maintenance tasks. |
 
 *(For more repositories, visit [my GitHub profile](https://github.com/swapnilyavalkar?tab=repositories))*
+
+---
+
+### 🐳 **Docker Hub**
+
+Check out my Docker images on **Docker Hub**:  
+[Swapnil Yavalkar's Docker Hub](https://hub.docker.com/repository/docker/swapnilyavalkar)
 
 ---
 
