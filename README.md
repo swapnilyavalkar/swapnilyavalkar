@@ -171,8 +171,6 @@ Here are some of my **community projects** and **open-source repositories**:
 
 #### 🟧 **AWS & Cloud Projects**
 
-These projects focus on AWS services, cloud architecture, and DevOps workflows. They are designed to demonstrate real-world use cases of cloud infrastructure, automation, and serverless applications.
-
 | **Repository** | **Description** |
 |----------------|-----------------|
 | [AWS DevOps Real-World Projects](https://github.com/swapnilyavalkar/aws-devops-realworld-projects) | Real-world examples of AWS & DevOps solutions inspired by companies like Netflix, Airbnb, and Spotify. These projects focus on designing and managing cloud infrastructure using AWS services. |
@@ -180,8 +178,6 @@ These projects focus on AWS services, cloud architecture, and DevOps workflows. 
 ---
 
 #### 🟦 **Applications Development & Utilities**
-
-These repositories feature various applications and utilities designed to **manage tasks**, **monitor systems**, and **forecast data**, showcasing my work in web applications and data analysis.
 
 | **Repository** | **Description** |
 |----------------|-----------------|
@@ -195,8 +191,6 @@ These repositories feature various applications and utilities designed to **mana
 ---
 
 #### 🟨 **Tableau**
-
-Repositories featuring scripts and utilities for **automating repetitive tasks** within **Tableau**. These tools help administrators manage user roles, update data connections, and automate backup processes.
 
 | **Repository** | **Description** |
 |----------------|-----------------|
@@ -212,8 +206,6 @@ Repositories featuring scripts and utilities for **automating repetitive tasks**
 
 #### 🟩 **SAP Business Objects**
 
-Repositories related to **SAP BusinessObjects** and **Tableau** administration, helping BI professionals automate and manage report structures, data extractions, and server processes.
-
 | **Repository** | **Description** |
 |----------------|-----------------|
 | [UserDetailsBI41](https://github.com/swapnilyavalkar/userdetailsbi41) | A collection of automated tools for SAP BO Administrators to assist in daily, weekly, and quarterly maintenance tasks for SAP BI4.1 servers. |
@@ -224,8 +216,6 @@ Repositories related to **SAP BusinessObjects** and **Tableau** administration, 
 ---
 
 #### 🟦 **Monitoring & Infrastructure Automation**
-
-These repositories contain tools and scripts for **system monitoring**, **infrastructure management**, and **automation**. They are built to ensure system health, automate maintenance, and monitor key metrics.
 
 | **Repository** | **Description** |
 |----------------|-----------------|
