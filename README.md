@@ -169,7 +169,7 @@ Here’s what my clients have to say about my work:
 
 Here are some of my **community projects** and **open-source repositories**:
 
-### 🟧 **AWS & Cloud Projects**
+#### 🟧 **AWS & Cloud Projects**
 
 These projects focus on AWS services, cloud architecture, and DevOps workflows. They are designed to demonstrate real-world use cases of cloud infrastructure, automation, and serverless applications.
 
@@ -179,7 +179,7 @@ These projects focus on AWS services, cloud architecture, and DevOps workflows. 
 
 ---
 
-### 🟦 **Applications Development & Utilities**
+#### 🟦 **Applications Development & Utilities**
 
 These repositories feature various applications and utilities designed to **manage tasks**, **monitor systems**, and **forecast data**, showcasing my work in web applications and data analysis.
 
@@ -194,7 +194,7 @@ These repositories feature various applications and utilities designed to **mana
 
 ---
 
-### 🟨 **Tableau**
+#### 🟨 **Tableau**
 
 Repositories featuring scripts and utilities for **automating repetitive tasks** within **Tableau**. These tools help administrators manage user roles, update data connections, and automate backup processes.
 
@@ -210,7 +210,7 @@ Repositories featuring scripts and utilities for **automating repetitive tasks**
 
 ---
 
-### 🟩 **SAP Business Objects**
+#### 🟩 **SAP Business Objects**
 
 Repositories related to **SAP BusinessObjects** and **Tableau** administration, helping BI professionals automate and manage report structures, data extractions, and server processes.
 
@@ -223,7 +223,7 @@ Repositories related to **SAP BusinessObjects** and **Tableau** administration, 
 
 ---
 
-### 🟦 **Monitoring & Infrastructure Automation**
+#### 🟦 **Monitoring & Infrastructure Automation**
 
 These repositories contain tools and scripts for **system monitoring**, **infrastructure management**, and **automation**. They are built to ensure system health, automate maintenance, and monitor key metrics.
 
