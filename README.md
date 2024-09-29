@@ -38,7 +38,7 @@ Here are some **real-world projects** that showcase my experience in AWS and Dev
    *Optimized AWS cloud infrastructure for a global e-commerce company, reducing costs by 30% using EC2 Spot Instances and RIs, while automating the environment with CloudFormation templates.*  
    **Technologies**: AWS (EC2, RDS, S3, CloudFormation), Jenkins, Docker.
 
-2. **CI/CD Pipeline Implementation for a FinTech Firm**  
+2. **CI/CD Pipeline Implementation**  
    *Designed and implemented a full CI/CD pipeline using Jenkins for an online payment processing firm, reducing deployment times by 50% and improving software delivery efficiency.*  
    **Technologies**: Jenkins, Docker, Kubernetes, AWS ECS.
 
