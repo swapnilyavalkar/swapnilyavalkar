@@ -169,33 +169,70 @@ Here’s what my clients have to say about my work:
 
 Here are some of my **community projects** and **open-source repositories**:
 
+### 🟧 **AWS & Cloud Projects**
+
+These projects focus on AWS services, cloud architecture, and DevOps workflows. They are designed to demonstrate real-world use cases of cloud infrastructure, automation, and serverless applications.
+
 | **Repository** | **Description** |
 |----------------|-----------------|
-| [AWS DevOps Real-World Projects](https://github.com/swapnilyavalkar/aws-devops-realworld-projects) | Real-world AWS & DevOps projects inspired by companies like Netflix and Airbnb, showcasing practical cloud infrastructure design and management. |
-| [AWS Features Explorer App](https://github.com/swapnilyavalkar/aws-features-explorer-app) | A dynamic web app to explore AWS services such as file uploads, API interactions, and monitoring with an intuitive UI. |
-| [AWS Lambda Contact Form](https://github.com/swapnilyavalkar/aws-lambda-contact-form) | A serverless contact form solution using AWS Lambda, API Gateway, and SNS for form submission processing and notification. |
-| [DynamicWeb NodeApp](https://github.com/swapnilyavalkar/dynamicweb-nodeapp) | A Node.js web application with both static and dynamic content, featuring a sample API for dynamic data handling. |
-| [Disk Space Monitoring](https://github.com/swapnilyavalkar/disk-space-monitoring) | A PowerShell script to monitor disk space on remote servers and send email alerts when space is low. It also manages logs by deleting large or outdated files automatically. |
-| [Grafana](https://github.com/swapnilyavalkar/grafana) | A repository for creating customized dashboards using Grafana, enabling system metrics and performance monitoring through visualized data. |
-| [Password Reset](https://github.com/swapnilyavalkar/passwordreset) | An automated web application for resetting user passwords on SAP BI4.1 servers, designed for ease of use and enhanced security. |
-| [Prometheus](https://github.com/swapnilyavalkar/prometheus) | Focused on creating customized exporters for Prometheus to monitor infrastructure and export data from various sources for analysis. |
-| [SAP BO Folder Report Structure](https://github.com/swapnilyavalkar/sap-bo-folder-report-structure) | A Java utility that extracts detailed report information from specific SAP BusinessObjects (BOBJ) folders and exports it to Excel for administrative purposes. |
-| [SAP BO Report Query Extraction Script](https://github.com/swapnilyavalkar/sap-bo-getting-sql-queries-webi-reports) | A Java-based script for extracting SQL queries from SAP BusinessObjects reports, supporting both Freehand SQL (FHSQL) and Universe-based reports. |
-| [SAP BO Universe Reports Extractor](https://github.com/swapnilyavalkar/sap-bo-universe-reports-extractor) | A Java utility that extracts and lists reports linked to a specific universe in SAP BusinessObjects, saving report details in Excel for easier management. |
-| [SSL Cert Monitoring](https://github.com/swapnilyavalkar/ssl-cert-monitoring) | A PowerShell script to monitor SSL certificate expiration dates and send email alerts when certificates are nearing expiration to prevent service disruptions. |
-| [Streamlit Time Series Forecasting App](https://github.com/swapnilyavalkar/streamlit-time-series-forecasting-app) | A customizable time-series analysis app built with Streamlit, designed for forecasting and visualizing time-series data with interactive visualizations. |
-| [System Resource Monitoring Web App](https://github.com/swapnilyavalkar/system-resource-monitoring-web-app) | A real-time system monitoring web app that displays system metrics like CPU usage and memory availability using Spring Boot and Chart.js for interactive dashboards. |
-| [Tableau Change Bulk User Roles](https://github.com/swapnilyavalkar/tableau-change-bulk-user-roles) | A Python script to automate bulk user role updates on Tableau Server based on data from a CSV file, logging changes and exporting reports. |
-| [Tableau Delete Subscriptions](https://github.com/swapnilyavalkar/tableau-delete-subscriptions) | A script designed to automate the deletion of subscriptions on Tableau Server, improving server performance by cleaning up old or unused subscriptions. |
-| [Tableau Server Backup](https://github.com/swapnilyavalkar/tableau-server-backup) | A Python script that automates the process of creating, managing, and storing Tableau Server backups, ensuring data integrity and simplifying maintenance. |
-| [Tableau Subscriptions Removal](https://github.com/swapnilyavalkar/tableau-subscriptions-removal) | A Python script that automates the removal of Tableau Server subscriptions for unlicensed users, while logging and sending email notifications to administrators. |
-| [Tableau Sync Users](https://github.com/swapnilyavalkar/tableau-sync--users) | A Python script to synchronize user roles between two Tableau Servers, updating the target server and notifying users and admins of changes. |
-| [Tableau Update DataSource Script](https://github.com/swapnilyavalkar/tableau-update-datasource-script) | A Python script that automates updating data connections on Tableau Server by fetching data from PostgreSQL and updating Tableau connections accordingly. |
-| [Tableau Metadata Extractor](https://github.com/swapnilyavalkar/tableau_metadata_extractor) | A collection of Python scripts that extract metadata from Tableau workbooks and data sources using Tableau's GraphQL API, simplifying asset governance and auditing. |
-| [Task Management App](https://github.com/swapnilyavalkar/task-management-app) | A web application to manage and track weekly tasks and activities, providing features to organize, prioritize, and monitor task progress. |
-| [UserDetails BI41](https://github.com/swapnilyavalkar/userdetailsbi41) | A collection of automated tools designed for SAP BusinessObjects (BI4.1) administrators to assist with daily, weekly, and quarterly maintenance tasks. |
+| [AWS DevOps Real-World Projects](https://github.com/swapnilyavalkar/aws-devops-realworld-projects) | Real-world examples of AWS & DevOps solutions inspired by companies like Netflix, Airbnb, and Spotify. These projects focus on designing and managing cloud infrastructure using AWS services. |
 
-*(For more repositories, visit [my GitHub profile](https://github.com/swapnilyavalkar?tab=repositories))*
+---
+
+### 🟦 **Applications Development & Utilities**
+
+These repositories feature various applications and utilities designed to **manage tasks**, **monitor systems**, and **forecast data**, showcasing my work in web applications and data analysis.
+
+| **Repository** | **Description** |
+|----------------|-----------------|
+| [AWS Features Explorer App](https://github.com/swapnilyavalkar/aws-features-explorer-app) | A dynamic platform to explore AWS services such as API interactions, file uploads, and monitoring, all managed via a user-friendly UI. |
+| [AWS Lambda Contact Form](https://github.com/swapnilyavalkar/aws-lambda-contact-form) | A serverless web application that handles contact form submissions using AWS Lambda, API Gateway, and SNS, containerized with Docker and deployed on ECS. |
+| [DynamicWeb NodeApp](https://github.com/swapnilyavalkar/dynamicweb-nodeapp) | A Node.js web application serving both static and dynamic content, including a sample API for dynamic data handling. |
+| [Task Management App](https://github.com/swapnilyavalkar/task-management-app) | A web application built to manage and track weekly tasks and activities, providing features to organize, prioritize, and monitor task progress. |
+| [Streamlit Time Series Forecasting App](https://github.com/swapnilyavalkar/streamlit-time-series-forecasting-app) | A customized time-series forecasting app built with Streamlit, enabling interactive visualizations of forecasted data. |
+| [System Resource Monitoring Web App](https://github.com/swapnilyavalkar/system-resource-monitoring-web-app) | A real-time system monitoring web app displaying CPU usage, memory availability, and more, using Spring Boot and Chart.js for interactive dashboards. |
+
+---
+
+### 🟨 **Tableau**
+
+Repositories featuring scripts and utilities for **automating repetitive tasks** within **Tableau**. These tools help administrators manage user roles, update data connections, and automate backup processes.
+
+| **Repository** | **Description** |
+|----------------|-----------------|
+| [Tableau Server Backup](https://github.com/swapnilyavalkar/tableau-server-backup) | A Python script that automates Tableau Server backups, ensuring data integrity through systematic creation, management, and storage of backups. |
+| [Tableau Subscriptions Removal](https://github.com/swapnilyavalkar/tableau-subscriptions-removal) | A Python script to automate the removal of Tableau Server subscriptions for unlicensed users, including logging and sending email notifications. |
+| [Tableau Change Bulk User Roles](https://github.com/swapnilyavalkar/tableau-change-bulk-user-roles) | A Python script that automates updating bulk user roles on Tableau Server based on a CSV file. It logs the changes and exports a detailed report in Excel. |
+| [Tableau Update Datasource Script](https://github.com/swapnilyavalkar/tableau-update-datasource-script) | A Python script to automate the process of updating specific data connections in Tableau Server by fetching data from PostgreSQL and updating Tableau Server accordingly. |
+| [Tableau Prometheus Exporter](https://github.com/swapnilyavalkar/tableau-prometheus-exporter) | Custom exporters designed to enable Tableau monitoring through Prometheus. |
+| [Tableau Delete Subscriptions](https://github.com/swapnilyavalkar/tableau-delete-subscriptions) | Automates the cleanup of subscriptions on Tableau Server by removing subscriptions based on predefined criteria and deleting old log files. |
+| [Tableau Others](https://github.com/swapnilyavalkar/tableau-others) | Automates the cleanup of subscriptions on Tableau Server by removing subscriptions based on predefined criteria and deleting old log files. |
+
+---
+
+### 🟩 **SAP Business Objects**
+
+Repositories related to **SAP BusinessObjects** and **Tableau** administration, helping BI professionals automate and manage report structures, data extractions, and server processes.
+
+| **Repository** | **Description** |
+|----------------|-----------------|
+| [UserDetailsBI41](https://github.com/swapnilyavalkar/userdetailsbi41) | A collection of automated tools for SAP BO Administrators to assist in daily, weekly, and quarterly maintenance tasks for SAP BI4.1 servers. |
+| [SAP BO Folder Report Structure](https://github.com/swapnilyavalkar/sap-bo-folder-report-structure) | A Java utility to extract report details from specific SAP BusinessObjects (BOBJ) folders and export them to Excel for administrative purposes. |
+| [SAP BO Universe Reports Extractor](https://github.com/swapnilyavalkar/sap-bo-universe-reports-extractor) | A Java utility to extract and list reports associated with a specific universe in SAP BusinessObjects, saving the details in an Excel file. |
+| [Password Reset](https://github.com/swapnilyavalkar/passwordreset) | An automated web application designed to reset user passwords on SAP BI4.1 servers, making the process easier and more secure. |
+
+---
+
+### 🟦 **Monitoring & Infrastructure Automation**
+
+These repositories contain tools and scripts for **system monitoring**, **infrastructure management**, and **automation**. They are built to ensure system health, automate maintenance, and monitor key metrics.
+
+| **Repository** | **Description** |
+|----------------|-----------------|
+| [Grafana](https://github.com/swapnilyavalkar/grafana) | A repository for creating customized dashboards with Grafana, enabling system metrics and performance monitoring through visualized data. |
+| [Prometheus](https://github.com/swapnilyavalkar/prometheus) | A collection of customized exporters built to extend Prometheus's monitoring capabilities for different infrastructure components. |
+| [Disk Space Monitoring](https://github.com/swapnilyavalkar/disk-space-monitoring) | A PowerShell script to monitor disk space on remote servers, sending email alerts when space is low. It also deletes large or outdated log files to free up space. |
+| [SSL Cert Monitoring](https://github.com/swapnilyavalkar/ssl-cert-monitoring) | A PowerShell script to monitor SSL certificate expiration dates and send email alerts if certificates are nearing expiration. |
 
 ---
 
