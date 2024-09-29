@@ -1,8 +1,3 @@
-Great! Let’s implement the remaining elements into your README file, focusing on adding **animated GIFs**, **real-time GitHub shields**, and ensuring everything is aligned with the original plan.
-
-### Enhanced README File with Missing Elements Added:
-
-```markdown
 ### ![mybanner](https://github.com/user-attachments/assets/f39c68e6-56b3-4b05-b860-12cd82df02c6)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=swapnilyavalkar&label=Profile%20views&color=0e75b6&style=flat)
@@ -198,4 +193,3 @@ If you're interested in collaborating or just want to say hello, feel free to co
 
 ### ✨ **Call to Action**
 💬 _Let's collaborate on exciting **AWS, DevOps**, or **Automation** projects! I’m open to new opportunities._ Reach out to me via [LinkedIn](https://www.linkedin.com/in/swapnilyavalkar)!
-```
