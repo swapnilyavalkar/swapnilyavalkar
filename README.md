@@ -28,12 +28,94 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
 🎓 **CCNA** (Cisco Certified Network Associate)
 
 ---
-
 ### 💼 **Tech Stack**
 
-| **Languages** | **Cloud Platforms** | **DevOps Tools** | **Automation & Monitoring** |
-|---------------|---------------------|------------------|-----------------------------|
-| <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Shell_Scripting-%2312100E.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/YAML-%2312100E.svg?style=for-the-badge&logo=yaml&logoColor=white" height="20"/> | <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/AWS%20ECS-%23FF9900.svg?style=for-the-badge&logo=amazon-ecs&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/AWS%20RDS-%230071C5.svg?style=for-the-badge&logo=amazon-rds&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/AWS%20CloudFront-%23FF4F8B.svg?style=for-the-badge&logo=amazoncloudfront&logoColor=white" height="20"/> | <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="20"/> | <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/ELK%20Stack-%230071C5.svg?style=for-the-badge&logo=elasticstack&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Splunk-%230071C5.svg?style=for-the-badge&logo=splunk&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/New%20Relic-%230071C5.svg?style=for-the-badge&logo=newrelic&logoColor=white" height="20"/> |
+<table>
+<tr>
+  <th>Languages</th>
+  <th>Cloud Platforms</th>
+  <th>DevOps Tools</th>
+  <th>Automation & Monitoring</th>
+</tr>
+<tr>
+  <td>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Shell_Scripting-%2312100E.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Batch-%23339933.svg?style=for-the-badge&logo=windows&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/YAML-%2312100E.svg?style=for-the-badge&logo=yaml&logoColor=white" height="20"/>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20ECS-%23FF9900.svg?style=for-the-badge&logo=amazon-ecs&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-eks&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20RDS-%230071C5.svg?style=for-the-badge&logo=amazon-rds&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20CloudFront-%23FF4F8B.svg?style=for-the-badge&logo=amazoncloudfront&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazons3&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20API%20Gateway-%23FF4F8B.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20VPC-%230071C5.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Step%20Functions-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Athena-%230071C5.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20EventBridge-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20SQS-%23FF9900.svg?style=for-the-badge&logo=amazonsqs&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20SNS-%23FF9900.svg?style=for-the-badge&logo=amazonsns&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Fargate-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Amazon%20SageMaker-%230071C5.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Amazon%20DynamoDB-%230071C5.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Lambda@Edge-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Kinesis-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Glue-%230071C5.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20CodePipeline-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20CodeDeploy-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Amazon%20CloudSearch-%230071C5.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Amazon%20Polly-%230071C5.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Lightsail-%230071C5.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Amazon%20MQ-%230071C5.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20KMS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Shield-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/ArgoCD-%23F16061.svg?style=for-the-badge&logo=argo&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20CodeBuild-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Vault-%230071C5.svg?style=for-the-badge&logo=vault&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/SonarQube-%230071C5.svg?style=for-the-badge&logo=sonarqube&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Nexus/Artifactory-%230071C5.svg?style=for-the-badge&logo=nexus&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Rancher-%230071C5.svg?style=for-the-badge&logo=rancher&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/CRI--O-%230071C5.svg?style=for-the-badge&logo=cri-o&logoColor=white" height="20"/>
+  </td>
+  <td>
+    <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/ELK%20Stack-%230071C5.svg?style=for-the-badge&logo=elasticstack&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Splunk-%230071C5.svg?style=for-the-badge&logo=splunk&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Kibana-%230071C5.svg?style=for-the-badge&logo=kibana&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/New%20Relic-%230071C5.svg?style=for-the-badge&logo=newrelic&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Systems%20Manager-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20CloudTrail-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Trusted%20Advisor-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Prophet-%230071C5.svg?style=for-the-badge&logo=facebook&logoColor=white" height="20"/>
+  </td>
+</tr>
+</table>
 
 ---
 
