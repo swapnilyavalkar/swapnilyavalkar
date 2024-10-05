@@ -67,8 +67,8 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
     <img src="https://img.shields.io/badge/AWS%20EventBridge-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
     <img src="https://img.shields.io/badge/AWS%20SQS-%23FF9900.svg?style=for-the-badge&logo=amazonsqs&logoColor=white" height="20"/>
     <img src="https://img.shields.io/badge/AWS%20SNS-%23FF9900.svg?style=for-the-badge&logo=amazonsns&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20Fargate-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon%20SageMaker-%230071C5.svg?style=for-the-badge&logo=aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS%20Fargate-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Amazon%20SageMaker-%230071C5.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
     <img src="https://img.shields.io/badge/AWS%20Lightsail-%230071C5.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
    <img src="https://img.shields.io/badge/Amazon%20MQ-%230071C5.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
    <img src="https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
