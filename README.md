@@ -8,17 +8,17 @@
 
 ### 👋 **Welcome!**
 
-**Empowering businesses with cloud solutions and automation 🚀 | AWS DevOps Professional | 13+ years of expertise**
+**Empowering businesses with cloud solutions and automation 🚀 | AWS DevOps Professional | 14+ years of IT expertise**
 
-Hi, I’m **Swapnil Yavalkar**, a AWS Cloud Professional with over **7 years of experience in AWS & DevOps** and **13 years of expertise in Tableau & SAP BO administration**. I specialize in **building scalable, resilient infrastructure** and automating processes for maximum efficiency, helping businesses reduce costs and improve workflows.
+Hi, I’m **Swapnil Yavalkar**, an AWS Cloud Professional with over **8 years of experience in AWS & DevOps** and **14 years of IT expertise**. I specialize in **building scalable, resilient infrastructure** and automating processes for maximum efficiency, helping businesses reduce costs and improve workflows. With a background in **Tableau & SAP BO administration**, I have managed complex environments and led numerous successful cloud projects.
 
 ---
 
 ### 🌟 **About Me**
 
-💻 **Cloud & DevOps Engineer** | 🔧 **Automation Expert**
+💻 **Cloud & DevOps Engineer** | 🔧 **Automation Expert** | 📊 **BI Specialist**
 
-I’m passionate about **cloud computing, automation**, and **DevOps**, and I've worked with several organizations to optimize their cloud infrastructure, reduce operational costs, and streamline deployments through CI/CD pipelines. My experience in **BI** has also helped enterprises implement **large-scale solutions** using Tableau and SAP BO.
+I’m passionate about **cloud computing, automation**, and **DevOps**, and I've worked with multiple organizations to optimize their cloud infrastructure, reduce operational costs, and streamline deployments through CI/CD pipelines. My experience in **Business Intelligence** also includes implementing large-scale solutions using Tableau and SAP BO.
 
 ---
 
@@ -67,23 +67,8 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
     <img src="https://img.shields.io/badge/AWS%20EventBridge-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
     <img src="https://img.shields.io/badge/AWS%20SQS-%23FF9900.svg?style=for-the-badge&logo=amazonsqs&logoColor=white" height="20"/>
     <img src="https://img.shields.io/badge/AWS%20SNS-%23FF9900.svg?style=for-the-badge&logo=amazonsns&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20Fargate-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Amazon%20SageMaker-%230071C5.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Amazon%20DynamoDB-%230071C5.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20Lambda@Edge-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20Kinesis-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20Glue-%230071C5.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20CodePipeline-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20CodeDeploy-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Amazon%20CloudSearch-%230071C5.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Amazon%20Polly-%230071C5.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20Lightsail-%230071C5.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Amazon%20MQ-%230071C5.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20KMS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20Shield-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/AWS%20Fargate-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon%20SageMaker-%230071C5.svg?style=for-the-badge&logo=aws&logoColor=white"/>
   </td>
   <td>
     <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="20"/>
@@ -91,28 +76,17 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
     <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="20"/>
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="20"/>
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/ArgoCD-%23F16061.svg?style=for-the-badge&logo=argo&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/ArgoCD-%23F16061.svg?style=for-the-badge&logo=argo&logoColor
+
+=white" height="20"/>
     <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" height="20"/>
     <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20CodeBuild-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Vault-%230071C5.svg?style=for-the-badge&logo=vault&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/SonarQube-%230071C5.svg?style=for-the-badge&logo=sonarqube&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Nexus/Artifactory-%230071C5.svg?style=for-the-badge&logo=nexus&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Rancher-%230071C5.svg?style=for-the-badge&logo=rancher&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/CRI--O-%230071C5.svg?style=for-the-badge&logo=cri-o&logoColor=white" height="20"/>
   </td>
   <td>
     <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" height="20"/>
     <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" height="20"/>
     <img src="https://img.shields.io/badge/ELK%20Stack-%230071C5.svg?style=for-the-badge&logo=elasticstack&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Splunk-%230071C5.svg?style=for-the-badge&logo=splunk&logoColor=white" height="20"/>
     <img src="https://img.shields.io/badge/Kibana-%230071C5.svg?style=for-the-badge&logo=kibana&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/New%20Relic-%230071C5.svg?style=for-the-badge&logo=newrelic&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20Systems%20Manager-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20CloudTrail-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/AWS%20Trusted%20Advisor-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Prophet-%230071C5.svg?style=for-the-badge&logo=facebook&logoColor=white" height="20"/>
   </td>
 </tr>
 </table>
@@ -173,7 +147,81 @@ Here are some of my **community projects** and **open-source repositories**:
 
 | **Repository** | **Description** |
 |----------------|-----------------|
-| [AWS DevOps Real-World Projects](https://github.com/swapnilyavalkar/aws-devops-realworld-projects) | Real-world examples of AWS & DevOps solutions inspired by companies like Netflix, Airbnb, and Spotify. These projects focus on designing and managing cloud infrastructure using AWS services. |
+| [AWS DevOps Real-World Projects](https://github.com/swapnilyavalkar/aws-devops-realworld-projects) | Experience hands-on, industry-inspired AWS & DevOps projects, crafted to teach and empower teammates and students alike based on my work experience. This repository showcases practical, real-world scenarios for designing, automating, and managing cloud infrastructure on AWS. Each project incorporates a variety of AWS services, CI/CD practices, containerization, and infrastructure as code, offering a comprehensive guide to building scalable, resilient, and secure cloud solutions. Ideal for anyone looking to deepen their skills in AWS and DevOps. |
+
+##### 📂 Repository Structure
+
+Each project folder is organized into **AWS Infrastructure Projects** and **DevOps Projects** categories, with subcategories based on difficulty levels: **Easy**, **Medium**, **Hard**, and **Complex**. Each project folder contains a detailed **README.md** file with step-by-step instructions to keep everything simple and easy to follow.
+
+```bash
+📦 aws-devops-realworld-projects
+ ┣ 📂 aws-infrastructure-projects
+ ┃ ┣ 📂 easy
+ ┃ ┃ ┣ 📂 01-cloudfront-s3-static-websites
+ ┃ ┃ ┣ 📂 02-s3-crossregion-replication
+ ┃ ┃ ┣ 📂 03-security-best-practices-iam
+ ┃ ┃ ┣ 📂 04-ec2-autoscaling-loadbalancer
+ ┃ ┃ ┣ 📂 05-monitoring-ecs-prometheus-grafana
+ ┃ ┃ ┗ 📂 06-infrastructure-as-code-cloudformation
+ ┃ ┣ 📂 medium
+ ┃ ┃ ┣ 📂 01-multiregion-failover-route53
+ ┃ ┃ ┣ 📂 02-loadbalancing-alb-nlb
+ ┃ ┃ ┣ 📂 03-automated-backups-aws-backup
+ ┃ ┃ ┣ 📂 04-secure-configurations-secretsmanager
+ ┃ ┃ ┣ 📂 05-lambdaatedge-content-delivery
+ ┃ ┃ ┣ 📂 06-data-lake-s3-athena-glue
+ ┃ ┃ ┣ 📂 07-s3-event-driven-architecture-with-sns-lambda-sqs
+ ┃ ┃ ┗ 📂 08-serverless-lambda-api-gateway-dynamodb
+ ┃ ┣ 📂 hard
+ ┃ ┃ ┣ 📂 01-api-security-waf
+ ┃ ┃ ┣ 📂 02-vpc-peering-transitive-routing
+ ┃ ┃ ┣ 📂 03-data-migration-dms
+ ┃ ┃ ┣ 📂 04-stepfunctions-orchestration
+ ┃ ┃ ┣ 📂 05-amazon-aurora-highavailability
+ ┃ ┃ ┗ 📂 06-graphql-api-appsync
+ ┃ ┣ 📂 complex
+ ┃ ┃ ┣ 📂 01-multiregion-activeactive-rds
+ ┃ ┃ ┣ 📂 02-data-lakehouse-redshift-s3
+ ┃ ┃ ┣ 📂 03-data-governance-lakeformation
+ ┃ ┃ ┣ 📂 04-hybrid-cloud-aws-outposts-s3
+ ┃ ┃ ┣ 📂 05-edge-computing-greengrass
+ ┃ ┃ ┣ 📂 06-security-compliance-macie-guardduty
+ ┃ ┃ ┣ 📂 07-codeartifact-codepipeline
+ ┃ ┃ ┣ 📂 08-serverless-container-fargate
+ ┃ ┃ ┣ 📂 09-rds-proxy-aurora-optimization
+ ┃ ┃ ┗ 📂 10-serverless-container-lambda
+ ┗ 📂 devops-projects
+ ┃ ┣ 📂 easy
+ ┃ ┃ ┣ 📂 01-ci-cd-jenkins-docker
+ ┃ ┃ ┣ 📂 02-ci-cd-jenkins-ec2
+ ┃ ┃ ┣ 📂 03-kubernetes-cluster-kops
+ ┃ ┃ ┣ 📂 04-kubernetes-cluster-terraform
+ ┃ ┃ ┣ 📂 05-automated-deployment-codebuild
+ ┃ ┃ ┗ 📂 06-ci-cd-jenkins-github-elastic-beanstalk
+ ┃ ┣ 📂 medium
+ ┃ ┃ ┣ 📂 01-automated-deployment-codedeploy
+ ┃ ┃ ┣ 📂 02-containerized-microservices-ecs
+ ┃ ┃ ┣ 📂 03-stepfunctions-orchestration
+ ┃ ┃ ┣ 📂 04-realtime-dataanalytics-kinesis-lambda
+ ┃ ┃ ┣ 📂 05-containerized-microservices-eks
+ ┃ ┃ ┗ 📂 06-automated-microservices-deployment-ecs-cicd
+ ┃ ┣ 📂 hard
+ ┃ ┃ ┣ 📂 01-deploying-microservices-ecs
+ ┃ ┃ ┣ 📂 02-music-streaming-service-aws
+ ┃ ┃ ┣ 📂 03-video-streaming-service-aws
+ ┃ ┃ ┣ 📂 04-serverless-webapp-aws-amplify
+ ┃ ┃ ┣ 📂 05-scalable-node.js-app-deployment-elastic-beanstalk
+ ┃ ┃ ┗ 📂 06-enterprise-application-deployment-kubernetes-terraform-ansible-gitlab
+ ┃ ┣ 📂 complex
+ ┃ ┃ ┣ 📂 01-ecs-bluegreen-deployment
+ ┃ ┃ ┣ 📂 02-music-streaming-portal-amazonmusic
+ ┃ ┃ ┣ 📂 03-video-streaming-netflix
+ ┃ ┃ ┣ 📂 04-image-processing-sagemaker
+ ┃ ┃ ┣ 📂 05-advanced-cicd-pipeline-codepipeline
+ ┃ ┃ ┣ 📂 06-sagemaker-ml-pipeline
+ ┃ ┃ ┣ 📂 07-realtime-video-processing-kinesis-s3
+ ┃ ┃ ┗ 📂 08-full-stack-cicd-pipeline-jenkins-aws-codedeploy-nginx
+```
 
 ---
 
@@ -186,7 +234,8 @@ Here are some of my **community projects** and **open-source repositories**:
 | [DynamicWeb NodeApp](https://github.com/swapnilyavalkar/dynamicweb-nodeapp) | A Node.js web application serving both static and dynamic content, including a sample API for dynamic data handling. |
 | [Task Management App](https://github.com/swapnilyavalkar/task-management-app) | A web application built to manage and track weekly tasks and activities, providing features to organize, prioritize, and monitor task progress. |
 | [Streamlit Time Series Forecasting App](https://github.com/swapnilyavalkar/streamlit-time-series-forecasting-app) | A customized time-series forecasting app built with Streamlit, enabling interactive visualizations of forecasted data. |
-| [System Resource Monitoring Web App](https://github.com/swapnilyavalkar/system-resource-monitoring-web-app) | A real-time system monitoring web app displaying CPU usage, memory availability, and more, using Spring Boot and Chart.js for interactive dashboards. |
+| [Rebranded Streamlit Forecasting App](https://github.com/swapnilyavalkar/rebranded-streamlit-forecasting-app) | An enhanced forecasting application developed with Streamlit, designed to offer time-series forecasting with an interactive and branded user interface. |
+| [Streamlit Time Series Forecasting App](https://github.com/swapnilyavalkar/streamlit-time-series-forecasting-app) | A customized time-series forecasting app built with Streamlit, enabling interactive visualizations of forecasted data. |
 
 ---
 
@@ -194,8 +243,10 @@ Here are some of my **community projects** and **open-source repositories**:
 
 | **Repository** | **Description** |
 |----------------|-----------------|
+| [Tableau Metadata Extractor](https://github.com/swapnilyavalkar/tableau_metadata_extractor) | A Python tool that extracts metadata from Tableau Server, aiding in data lineage, compliance, and reporting. |
 | [Tableau Server Backup](https://github.com/swapnilyavalkar/tableau-server-backup) | A Python script that automates Tableau Server backups, ensuring data integrity through systematic creation, management, and storage of backups. |
 | [Tableau Subscriptions Removal](https://github.com/swapnilyavalkar/tableau-subscriptions-removal) | A Python script to automate the removal of Tableau Server subscriptions for unlicensed users, including logging and sending email notifications. |
+| [Tableau Sync Users](https://github.com/swapnilyavalkar/tableau-sync--users) | A Python script to synchronize Tableau Server users with external data sources, ensuring updated and accurate user access. |
 | [Tableau Change Bulk User Roles](https://github.com/swapnilyavalkar/tableau-change-bulk-user-roles) | A Python script that automates updating bulk user roles on Tableau Server based on a CSV file. It logs the changes and exports a detailed report in Excel. |
 | [Tableau Update Datasource Script](https://github.com/swapnilyavalkar/tableau-update-datasource-script) | A Python script to automate the process of updating specific data connections in Tableau Server by fetching data from PostgreSQL and updating Tableau Server accordingly. |
 | [Tableau Prometheus Exporter](https://github.com/swapnilyavalkar/tableau-prometheus-exporter) | Custom exporters designed to enable Tableau monitoring through Prometheus. |
@@ -208,6 +259,7 @@ Here are some of my **community projects** and **open-source repositories**:
 
 | **Repository** | **Description** |
 |----------------|-----------------|
+| [SAP BO SQL Queries Extractor](https://github.com/swapnilyavalkar/sap-bo-getting-sql-queries-webi-reports) | A tool that extracts SQL queries from Web Intelligence reports in SAP BO, aiding in analysis and compliance. |
 | [UserDetailsBI41](https://github.com/swapnilyavalkar/userdetailsbi41) | A collection of automated tools for SAP BO Administrators to assist in daily, weekly, and quarterly maintenance tasks for SAP BI4.1 servers. |
 | [SAP BO Folder Report Structure](https://github.com/swapnilyavalkar/sap-bo-folder-report-structure) | A Java utility to extract report details from specific SAP BusinessObjects (BOBJ) folders and export them to Excel for administrative purposes. |
 | [SAP BO Universe Reports Extractor](https://github.com/swapnilyavalkar/sap-bo-universe-reports-extractor) | A Java utility to extract and list reports associated with a specific universe in SAP BusinessObjects, saving the details in an Excel file. |
@@ -219,11 +271,10 @@ Here are some of my **community projects** and **open-source repositories**:
 
 | **Repository** | **Description** |
 |----------------|-----------------|
-| [Grafana](https://github.com/swapnilyavalkar/grafana) | A repository for creating customized dashboards with Grafana, enabling system metrics and performance monitoring through visualized data. |
-| [Prometheus](https://github.com/swapnilyavalkar/prometheus) | A collection of customized exporters built to extend Prometheus's monitoring capabilities for different infrastructure components. |
 | [Disk Space Monitoring](https://github.com/swapnilyavalkar/disk-space-monitoring) | A PowerShell script to monitor disk space on remote servers, sending email alerts when space is low. It also deletes large or outdated log files to free up space. |
 | [SSL Cert Monitoring](https://github.com/swapnilyavalkar/ssl-cert-monitoring) | A PowerShell script to monitor SSL certificate expiration dates and send email alerts if certificates are nearing expiration. |
-
+| [Grafana](https://github.com/swapnilyavalkar/grafana) | A repository for creating customized dashboards with Grafana, enabling system metrics and performance monitoring through visualized data. |
+| [Prometheus](https://github.com/swapnilyavalkar/prometheus) | A collection of customized exporters built to extend Prometheus's monitoring capabilities for different infrastructure components. |
 ---
 
 ### 🐳 **Docker Hub**
@@ -245,12 +296,6 @@ Check out my Docker images on **Docker Hub**:
 
 ---
 
-### 💡 **Fun Fact**
-
-🌍 **I love exploring new DevOps tools and spending time automating repetitive tasks!**
-
----
-
 ### 📬 **Let’s Connect & Collaborate**
 
 💬 I’m always open to connecting with fellow professionals and collaborating on exciting **AWS**, **DevOps**, or **automation** projects!
@@ -261,17 +306,6 @@ Reach out to me via [LinkedIn](https://www.linkedin.com/in/swapnilyavalkar) or c
 ### 🏆 **GitHub Trophies**
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=swapnilyavalkar&theme=radical)
-
----
-
-### 📅 **Weekly Work Breakdown**
-
-```
-🧑‍💻 40% DevOps Automation  
-🚀 30% AWS Cloud Solutions  
-📊 20% Learning New Tools  
-🎮 10% Gaming on the Cloud  
-```
 
 ---
 
