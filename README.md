@@ -10,7 +10,7 @@
 
 **Empowering businesses with cloud solutions and automation 🚀 | AWS DevOps Professional | 13+ years of IT expertise**
 
-Hi, I’m **Swapnil Yavalkar**, an AWS Cloud Professional with over **7 years of experience in AWS & DevOps** and **13 years of IT expertise**. I specialize in **building scalable, resilient infrastructure** and automating processes for maximum efficiency, helping businesses reduce costs and improve workflows. With a background in **Tableau & SAP BO administration**, I have managed complex environments and led numerous successful cloud projects.
+Hi, I’m **Swapnil Yavalkar**, an AWS Cloud Professional with over **8 years of experience in AWS & DevOps** and **13+ years of IT expertise**. I specialize in **building scalable, resilient infrastructure** and automating processes for maximum efficiency, helping businesses reduce costs and improve workflows. With a background in **Tableau & SAP BO administration**, I have managed complex environments and led numerous successful cloud projects.
 
 ---
 
@@ -24,6 +24,7 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
 
 ### 🏆 **Certifications**
 
+🎓 **AWS Certified Solutions Architect - Professional**
 🎓 **SCJP** (Sun Certified Java Programmer)  
 🎓 **CCNA** (Cisco Certified Network Associate)
 
