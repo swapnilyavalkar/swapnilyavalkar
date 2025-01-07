@@ -91,6 +91,7 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
   </td>
 </tr>
 </table>
+
 ---
 
 <h1 align="center">🏆 Some Completed Projects</h1>
@@ -302,22 +303,17 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
 <h1 align="center">🔗 Connect with Me</h1>
 
 <p align="center">
-    <a href="mailto:swapnil.yavalkar@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white" alt="Hotmail">
-</a>
-    <a href="https://www.linkedin.com/in/swapnilyavalkar" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+    <a href="mailto:swapnil.yavalkar@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white" alt="Hotmail"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/swapnilyavalkar">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
     <a href="https://github.com/swapnilyavalkar" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub">
-    </a>
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
     <a href="https://hub.docker.com/u/swapnilyavalkar" target="_blank">
-        <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker Hub">
-    </a>
+        <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker Hub"></a>&nbsp;
 </p>
 
-<p align="center">
-<strong> 💬 I’m always open to connecting with fellow professionals and collaborating on exciting **AWS**, **DevOps**, or **Automation** projects! Let’s discuss how I can help you automate cloud processes or streamline your DevOps pipelines. Feel free to reach out for any Freelance Projects.
+<p align="left">
+<strong> I’m always open to connecting with fellow professionals and collaborating on exciting AWS, DevOps, or Automation projects! Let’s discuss how I can help you automate cloud processes or streamline your DevOps pipelines. Feel free to reach out for any Freelance Projects.
 </strong>
 </p>
 
@@ -326,9 +322,14 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
 <h1 align="center">📈 GitHub Stats</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swapnilyavalkar&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilyavalkar&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilyavalkar&langs_count=8&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" >
+    <img src="https://github-readme-stats.vercel.app/api?username=swapnilyavalkar&theme=chartreuse-dark&show_icons=true" alt="My GitHub Stats" width="45%"/>&nbsp;&nbsp;
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=swapnilyavalkar&theme=chartreuse-dark&show_icons=true" alt="GitHub Streak" width="47.5%"/>
+    </a>
 </p>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=swapnilyavalkar&theme=radical)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilyavalkar&langs_count=8&theme=chartreuse-dark&layout=compact" alt="Top Languages" width="40%"/>
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="Trophies" width="90%"/>
+</p>
