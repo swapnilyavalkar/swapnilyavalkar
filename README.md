@@ -15,14 +15,7 @@
         <img src="https://img.shields.io/github/repo-size/ik-workshop/workshop-blueprint?style=plastic" alt="Repository Size" /></a> <img src="https://img.shields.io/github/languages/top/swapnilyavalkar/Wanderlust-Mega-Project?style=plastic" alt="Top Language" />
 </p>
 
-<p>
-  <a href="https://github.com/swapnilyavalkar?tab=repositories">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=0078D4&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Cloud+/+DevOps+Engineer,;I'm+interested+in+Cloud,+DevOps,+&+DevSecOps,;I+love+learning+new+technologies+everyday."
-      alt="Typing animation showing GitHub Profile introduction"
-    />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=100&width=750&lines=Welcome+to+my+GitHub+Profile!;I'm+Swapnil+Yavalkar%2C+working+as+a+Cloud%2FDevOps+Engineer.;I'm+passionate+about+Cloud+and+DevOps.;Lifelong+Learner!)](https://git.io/typing-svg)
 
 ---
 <h1 align="center">🧑‍💻 About Me</h1>
@@ -322,7 +315,7 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
 <h1 align="center">📈 GitHub Stats</h1>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=swapnilyavalkar&theme=chartreuse-dark&show_icons=true" alt="My GitHub Stats" width="45%"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=swapnilyavalkar&theme=chartreuse-dark&show_icons=true&layout=compact" alt="My GitHub Stats" width="45%"/>&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilyavalkar&langs_count=8&theme=chartreuse-dark&layout=compact" alt="Top Languages" width="29.5%"/>
 </p>
 <p align="center">
