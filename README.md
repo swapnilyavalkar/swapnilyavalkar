@@ -322,14 +322,11 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
 <h1 align="center">📈 GitHub Stats</h1>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=swapnilyavalkar&theme=chartreuse-dark&show_icons=true" alt="My GitHub Stats" width="45%"/>&nbsp;&nbsp;
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=swapnilyavalkar&theme=chartreuse-dark&show_icons=true" alt="GitHub Streak" width="47.5%"/>
-    </a>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilyavalkar&langs_count=8&theme=chartreuse-dark&layout=compact" alt="Top Languages" width="40%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=swapnilyavalkar&theme=chartreuse-dark&show_icons=true" alt="My GitHub Stats" width="45%"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilyavalkar&langs_count=8&theme=chartreuse-dark&layout=compact" alt="Top Languages" width="29.5%"/>
 </p>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="Trophies" width="90%"/>
 </p>
+
+<p align="center">Thank you for visiting! Feel free to <a href="mailto:swapnil.yavalkar@hotmail.com">connect</a> with me for collaborations.</p>
