@@ -55,7 +55,7 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
 <table style="border-collapse: collapse; width: 100%; border: 0px solid white;">
   <tr>
     <!-- Left Column: Tech Stack -->
-    <td style="vertical-align: top; border: 0px solid white; padding: 10px;">
+    <td style="vertical-align: top; border: 0px solid white; padding: 0px;">
       <h3>Languages</h3>
       <p>
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" alt="Java Badge">
