@@ -8,11 +8,11 @@
         <img src="https://img.shields.io/github/followers/swapnilyavalkar?style=plastic" alt="GitHub Followers" />
     </a> <img src="https://komarev.com/ghpvc/?username=swapnilyavalkar&style=plastic" alt="Profile Views" />
    <img src="https://img.shields.io/github/stars/ik-workshop/workshop-blueprint?style=plastic" alt="GitHub Stars" />
-   <img src="https://img.shields.io/github/commit-activity/m/ik-workshop/workshop-blueprint?style=plastic" alt="Commit Activity" /> <img src="https://img.shields.io/github/last-commit/swapnilyavalkar/Wanderlust-Mega-Project?style=plastic&color=blue" alt="Last Commit" /> <a href="https://github.com/swapnilyavalkar/.github/blob/main/LICENSE" target="_blank">
+   <img src="https://img.shields.io/github/commit-activity/m/ik-workshop/workshop-blueprint?style=plastic" alt="Commit Activity" /> <img src="https://img.shields.io/github/last-commit/swapnilyavalkar/DevOps-Projects?style=plastic&color=blue" alt="Last Commit" /> <a href="https://github.com/swapnilyavalkar/.github/blob/main/LICENSE" target="_blank">
         <img src="https://img.shields.io/github/license/swapnilyavalkar/dynamicweb-nodeapp?style=plastic&color=blue" alt="License" >
     </a><a href="https://github.com/ik-workshop/workshop-blueprint" target="_blank">
         <img src="https://img.shields.io/github/languages/code-size/ik-workshop/workshop-blueprint?style=plastic" alt="Code Size" /></a><a href="https://github.com/ik-workshop/workshop-blueprint" target="_blank">
-        <img src="https://img.shields.io/github/repo-size/ik-workshop/workshop-blueprint?style=plastic" alt="Repository Size" /></a> <img src="https://img.shields.io/github/languages/top/swapnilyavalkar/Wanderlust-Mega-Project?style=plastic" alt="Top Language" />
+        <img src="https://img.shields.io/github/repo-size/ik-workshop/workshop-blueprint?style=plastic" alt="Repository Size" /></a> <img src="https://img.shields.io/github/languages/top/swapnilyavalkar/DevOps-Projects?style=plastic" alt="Top Language" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=5000&pause=10&color=007ACCF8&center=true&vCenter=true&width=3000&height=65&lines=Welcome+to+my+GitHub+Profile!;I'm+Swapnil+Yavalkar%2C+working+as+a+Cloud%2FDevOps+Engineer.;I'm+passionate+about+Cloud,+DevOps+and+Automations.;Lifelong+Learner!)](https://git.io/typing-svg)
