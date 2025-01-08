@@ -52,10 +52,10 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
 ---
 <h1 align="center">💻 Tech Stack</h1>
 
-<table>
+<table style="border-collapse: collapse; width: 100%; border: 0px solid white;">
   <tr>
     <!-- Left Column: Tech Stack -->
-    <td style="vertical-align: top; width: 60%;">
+    <td style="vertical-align: top; border: 0px solid white; padding: 10px;">
       <h3>Languages</h3>
       <p>
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" alt="Java Badge">
