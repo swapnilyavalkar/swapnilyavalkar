@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/github/repo-size/ik-workshop/workshop-blueprint?style=plastic" alt="Repository Size" /></a> <img src="https://img.shields.io/github/languages/top/swapnilyavalkar/Wanderlust-Mega-Project?style=plastic" alt="Top Language" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=5000&pause=10&color=007ACCF8&center=true&vCenter=true&width=3000&height=65&lines=Welcome+to+my+GitHub+Profile!;I'm+Swapnil+Yavalkar%2C+working+as+a+Cloud%2FDevOps+Engineer.;I'm+passionate+about+Cloud+and+DevOps.;Lifelong+Learner!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=5000&pause=10&color=007ACCF8&center=true&vCenter=true&width=3000&height=65&lines=Welcome+to+my+GitHub+Profile!;I'm+Swapnil+Yavalkar%2C+working+as+a+Cloud%2FDevOps+Engineer.;I'm+passionate+about+Cloud,+DevOps+and+Automations.;Lifelong+Learner!)](https://git.io/typing-svg)
 
 ---
 <h1 align="center">🧑‍💻 About Me</h1>
@@ -50,12 +50,12 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
 </div>
 
 ---
-
 <h1 align="center">💻 Tech Stack</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 20px;">
+
   <!-- Left Column: Tech Stack -->
-  <div style="flex: 1; margin-right: 20px;">
+  <div style="flex: 1; min-width: 300px;">
 
 ### Languages  
 
@@ -96,7 +96,7 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
   </div>
 
   <!-- Right Column: Image -->
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="images/coder.gif" alt="Coder GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
   </div>
 </div>
