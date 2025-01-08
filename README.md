@@ -228,11 +228,10 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
 <div align="center">
   <a href="https://github.com/swapnilyavalkar/aws-devops-realworld-projects">
     <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=swapnilyavalkar&repo=aws-devops-realworld-projects&cache_seconds=86400&theme=tokyonight" />
-    </a>
+  </a>
   <details>
     <summary style="cursor: pointer; font-size: 14px; color: #63b5f6; font-weight: bold;">📂 Click to Expand Repository Structure</summary>
     <pre style="text-align: left; color: #dcdcdc; background: none; font-size: 14px; margin-top: 10px; padding: 10px; overflow-x: auto;">
-
 📦 aws-devops-realworld-projects
 ┣ 📂 aws-infrastructure-projects
 ┃ ┣ 📂 easy
@@ -302,7 +301,6 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
 ┃ ┃ ┗ 📂 08-full-stack-cicd-pipeline-jenkins-aws-codedeploy-nginx
    </pre>
    </details>
-
 </div>
 
 ---
