@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/github/repo-size/ik-workshop/workshop-blueprint?style=plastic" alt="Repository Size" /></a> <img src="https://img.shields.io/github/languages/top/swapnilyavalkar/Wanderlust-Mega-Project?style=plastic" alt="Top Language" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=100&color=1E698A&width=750&lines=Welcome+to+my+GitHub+Profile!;I'm+Swapnil+Yavalkar%2C+working+as+a+Cloud%2FDevOps+Engineer.;I'm+passionate+about+Cloud+and+DevOps.;Lifelong+Learner!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=3500&pause=50&color=007ACCF8&center=true&vCenter=true&width=3000&lines=Welcome+to+my+GitHub+Profile!;I'm+Swapnil+Yavalkar%2C+working+as+a+Cloud%2FDevOps+Engineer.;I'm+passionate+about+Cloud+and+DevOps.;Lifelong+Learner!)](https://git.io/typing-svg)
 
 ---
 <h1 align="center">🧑‍💻 About Me</h1>
@@ -25,65 +25,81 @@
 I’m passionate about **cloud computing, automation**, and **DevOps**, and I've worked with multiple organizations to optimize their cloud infrastructure, reduce operational costs, and streamline deployments through CI/CD pipelines. My experience in **Business Intelligence** also includes implementing large-scale solutions using Tableau and SAP BO.
 
 ---
-
 <h1 align="center">🎓 Certifications</h1>
 
-🎓 **AWS Certified Solutions Architect - Professional**  
-🎓 **SCJP** ***(Sun Certified Java Programmer)***  
-🎓 **CCNA** ***(Cisco Certified Network Associate)***
+<div style="display: flex; flex-direction: column; gap: 3px;">
+
+  <!-- AWS Certification -->
+  <div style="display: flex; align-items: center; gap: 3px;">
+    <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+    <span style="font-weight: bold;">AWS Certified Solutions Architect - Professional</span>
+  </div>
+
+  <!-- Java Certification -->
+  <div style="display: flex; align-items: center; gap: 3px;">
+    <img src="https://img.shields.io/badge/SCJP%20-%23F89820.svg?style=plastic&logo=java&logoColor=red" alt="Java Badge" />
+    <span style="font-weight: bold;">Sun Certified Java Programmer</span>
+  </div>
+
+  <!-- Cisco Certification -->
+  <div style="display: flex; align-items: center; gap: 3px;">
+    <img src="https://img.shields.io/badge/Cisco-%23049FD9.svg?style=plastic&logo=cisco&logoColor=white" alt="Cisco Badge" />
+    <span style="font-weight: bold;">Cisco Certified Network Associate</span>
+  </div>
+
+</div>
 
 ---
 
 <h1 align="center">💻 Tech Stack</h1>
-<table>
-<tr>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <!-- Left Column: Tech Stack -->
-  <td>
+  <div style="flex: 1; margin-right: 20px;">
 
 ### Languages  
 
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-  ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%2312100E.svg?style=plastic&logo=gnu-bash&logoColor=white)
-  ![YAML](https://img.shields.io/badge/YAML-%2312100E.svg?style=plastic&logo=yaml&logoColor=white)
+   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white)
+   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+   ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%2312100E.svg?style=plastic&logo=gnu-bash&logoColor=white)
+   ![YAML](https://img.shields.io/badge/YAML-%2312100E.svg?style=plastic&logo=yaml&logoColor=white)
 
 ### Cloud Platforms  
 
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-  ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=plastic&logo=awslambda&logoColor=white)
-  ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%230071C5.svg?style=plastic&logo=amazon-rds&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
-  ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-  ![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-%23FF4F8B.svg?style=plastic&logo=amazoncloudfront&logoColor=white)
+   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+   ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=plastic&logo=awslambda&logoColor=white)
+   ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%230071C5.svg?style=plastic&logo=amazon-rds&logoColor=white)
+   ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+   ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+   ![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-%23FF4F8B.svg?style=plastic&logo=amazoncloudfront&logoColor=white)
 
 ### DevOps Tools  
 
-  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-  ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+   ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+   ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+   ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
+   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+   ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
+   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 ### Automation & Monitoring  
 
-  ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=plastic&logo=prometheus&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
-  ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-%230071C5.svg?style=plastic&logo=elasticstack&logoColor=white)
-  ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-  ![SonarQube](https://img.shields.io/badge/SonarQube-%230071C5.svg?style=plastic&logo=sonarqube&logoColor=white)
+   ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=plastic&logo=prometheus&logoColor=white)
+   ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
+   ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-%230071C5.svg?style=plastic&logo=elasticstack&logoColor=white)
+   ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+   ![SonarQube](https://img.shields.io/badge/SonarQube-%230071C5.svg?style=plastic&logo=sonarqube&logoColor=white)
 
-  </td>
+  </div>
 
   <!-- Right Column: Image -->
-  <td align="center">
-    <img src="images/coder.gif" alt="Coder GIF" style="max-width: 500px; border-radius: 10px;">
-  </td>
-</tr>
-</table>
+  <div style="flex: 1; text-align: center;">
+    <img src="images/coder.gif" alt="Coder GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
+  </div>
+</div>
 
 ---
 
@@ -322,4 +338,4 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="Trophies" width="90%"/>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=500&color=1E698A&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting!+Feel+free+to+connect+with+me+for+collaborations." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=3500&pause=50&color=007ACCF8&center=true&vCenter=true&width=3000&lines=Thank+you+for+visiting!+Feel+free+to+connect+with+me+for+collaborations." alt="Typing SVG" /></a>
