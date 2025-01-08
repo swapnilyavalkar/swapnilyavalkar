@@ -261,4 +261,8 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="Trophies" width="90%"/>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=5000&pause=50&color=007ACCF8&center=true&vCenter=true&width=3000&height=65&lines=Thank+you+for+visiting!+Feel+free+to+connect+with+me+for+collaborations." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=5000&pause=2000&color=007ACCF8&vCenter=true&width=3000&height=65&lines=%F0%9F%8C%9F+The+journey+of+learning+never+ends+each+step+forward+opens+doors;+to+new+possibilities.+%E2%80%94+A+Lifelong+Learner+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+---
+
+### Thank you for visiting, feel free to **connect with me** for collaborations and exciting projects. ✨
