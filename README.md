@@ -225,87 +225,85 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
 
 <h1 align="center">☁️ AWS & DevOps Projects</h1>
 
-<p align="center">
-    <a href="https://github.com/swapnilyavalkar/aws-devops-realworld-projects">
-        <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=swapnilyavalkar&repo=aws-devops-realworld-projects&cache_seconds=86400&theme=tokyonight" />
-    </a>
-
-</p>
-
-<details>
-<p align="center"><summary><strong>📂 Click to Expand Repository Structure</strong></summary></p>
-
-```bash
+<div align="center" style="border: 1px solid #444; padding: 15px; border-radius: 10px; background-color: #1e1e2e; color: white; width: 400px;">
+  <a href="https://github.com/swapnilyavalkar/aws-devops-realworld-projects" style="text-decoration: none;">
+    <h3 style="margin: 0; font-size: 18px; color: #63b5f6;">aws-devops-realworld-projects</h3>
+    <p style="font-size: 14px; color: #aaa;">🚀 Hands-on AWS & DevOps projects showcasing CI/CD, Kubernetes, Docker, Terraform, serverless, & more. Real-world use cases for mastering cloud tech!</p>
+  </a>
+  <hr style="border-color: #444; margin: 10px 0;" />
+  <details>
+    <summary style="cursor: pointer; font-size: 14px; color: #63b5f6; font-weight: bold;">📂 Click to Expand Repository Structure</summary>
+    <pre style="text-align: left; color: #dcdcdc; background: none; font-size: 14px; margin-top: 10px; padding: 10px; overflow-x: auto;">
 📦 aws-devops-realworld-projects
- ┣ 📂 aws-infrastructure-projects
- ┃ ┣ 📂 easy
- ┃ ┃ ┣ 📂 01-cloudfront-s3-static-websites
- ┃ ┃ ┣ 📂 02-s3-crossregion-replication
- ┃ ┃ ┣ 📂 03-security-best-practices-iam
- ┃ ┃ ┣ 📂 04-ec2-autoscaling-loadbalancer
- ┃ ┃ ┣ 📂 05-monitoring-ecs-prometheus-grafana
- ┃ ┃ ┗ 📂 06-infrastructure-as-code-cloudformation
- ┃ ┣ 📂 medium
- ┃ ┃ ┣ 📂 01-multiregion-failover-route53
- ┃ ┃ ┣ 📂 02-loadbalancing-alb-nlb
- ┃ ┃ ┣ 📂 03-automated-backups-aws-backup
- ┃ ┃ ┣ 📂 04-secure-configurations-secretsmanager
- ┃ ┃ ┣ 📂 05-lambdaatedge-content-delivery
- ┃ ┃ ┣ 📂 06-data-lake-s3-athena-glue
- ┃ ┃ ┣ 📂 07-s3-event-driven-architecture-with-sns-lambda-sqs
- ┃ ┃ ┗ 📂 08-serverless-lambda-api-gateway-dynamodb
- ┃ ┣ 📂 hard
- ┃ ┃ ┣ 📂 01-api-security-waf
- ┃ ┃ ┣ 📂 02-vpc-peering-transitive-routing
- ┃ ┃ ┣ 📂 03-data-migration-dms
- ┃ ┃ ┣ 📂 04-stepfunctions-orchestration
- ┃ ┃ ┣ 📂 05-amazon-aurora-highavailability
- ┃ ┃ ┗ 📂 06-graphql-api-appsync
- ┃ ┣ 📂 complex
- ┃ ┃ ┣ 📂 01-multiregion-activeactive-rds
- ┃ ┃ ┣ 📂 02-data-lakehouse-redshift-s3
- ┃ ┃ ┣ 📂 03-data-governance-lakeformation
- ┃ ┃ ┣ 📂 04-hybrid-cloud-aws-outposts-s3
- ┃ ┃ ┣ 📂 05-edge-computing-greengrass
- ┃ ┃ ┣ 📂 06-security-compliance-macie-guardduty
- ┃ ┃ ┣ 📂 07-codeartifact-codepipeline
- ┃ ┃ ┣ 📂 08-serverless-container-fargate
- ┃ ┃ ┣ 📂 09-rds-proxy-aurora-optimization
- ┃ ┃ ┗ 📂 10-serverless-container-lambda
- ┗ 📂 devops-projects
- ┃ ┣ 📂 easy
- ┃ ┃ ┣ 📂 01-ci-cd-jenkins-docker
- ┃ ┃ ┣ 📂 02-ci-cd-jenkins-ec2
- ┃ ┃ ┣ 📂 03-kubernetes-cluster-kops
- ┃ ┃ ┣ 📂 04-kubernetes-cluster-terraform
- ┃ ┃ ┣ 📂 05-automated-deployment-codebuild
- ┃ ┃ ┗ 📂 06-ci-cd-jenkins-github-elastic-beanstalk
- ┃ ┣ 📂 medium
- ┃ ┃ ┣ 📂 01-automated-deployment-codedeploy
- ┃ ┃ ┣ 📂 02-containerized-microservices-ecs
- ┃ ┃ ┣ 📂 03-stepfunctions-orchestration
- ┃ ┃ ┣ 📂 04-realtime-dataanalytics-kinesis-lambda
- ┃ ┃ ┣ 📂 05-containerized-microservices-eks
- ┃ ┃ ┗ 📂 06-automated-microservices-deployment-ecs-cicd
- ┃ ┣ 📂 hard
- ┃ ┃ ┣ 📂 01-deploying-microservices-ecs
- ┃ ┃ ┣ 📂 02-music-streaming-service-aws
- ┃ ┃ ┣ 📂 03-video-streaming-service-aws
- ┃ ┃ ┣ 📂 04-serverless-webapp-aws-amplify
- ┃ ┃ ┣ 📂 05-scalable-node.js-app-deployment-elastic-beanstalk
- ┃ ┃ ┗ 📂 06-enterprise-application-deployment-kubernetes-terraform-ansible-gitlab
- ┃ ┣ 📂 complex
- ┃ ┃ ┣ 📂 01-ecs-bluegreen-deployment
- ┃ ┃ ┣ 📂 02-music-streaming-portal-amazonmusic
- ┃ ┃ ┣ 📂 03-video-streaming-netflix
- ┃ ┃ ┣ 📂 04-image-processing-sagemaker
- ┃ ┃ ┣ 📂 05-advanced-cicd-pipeline-codepipeline
- ┃ ┃ ┣ 📂 06-sagemaker-ml-pipeline
- ┃ ┃ ┣ 📂 07-realtime-video-processing-kinesis-s3
- ┃ ┃ ┗ 📂 08-full-stack-cicd-pipeline-jenkins-aws-codedeploy-nginx
-```
-
-</details>
+┣ 📂 aws-infrastructure-projects
+┃ ┣ 📂 easy
+┃ ┃ ┣ 📂 01-cloudfront-s3-static-websites
+┃ ┃ ┣ 📂 02-s3-crossregion-replication
+┃ ┃ ┣ 📂 03-security-best-practices-iam
+┃ ┃ ┣ 📂 04-ec2-autoscaling-loadbalancer
+┃ ┃ ┣ 📂 05-monitoring-ecs-prometheus-grafana
+┃ ┃ ┗ 📂 06-infrastructure-as-code-cloudformation
+┃ ┣ 📂 medium
+┃ ┃ ┣ 📂 01-multiregion-failover-route53
+┃ ┃ ┣ 📂 02-loadbalancing-alb-nlb
+┃ ┃ ┣ 📂 03-automated-backups-aws-backup
+┃ ┃ ┣ 📂 04-secure-configurations-secretsmanager
+┃ ┃ ┣ 📂 05-lambdaatedge-content-delivery
+┃ ┃ ┣ 📂 06-data-lake-s3-athena-glue
+┃ ┃ ┣ 📂 07-s3-event-driven-architecture-with-sns-lambda-sqs
+┃ ┃ ┗ 📂 08-serverless-lambda-api-gateway-dynamodb
+┃ ┣ 📂 hard
+┃ ┃ ┣ 📂 01-api-security-waf
+┃ ┃ ┣ 📂 02-vpc-peering-transitive-routing
+┃ ┃ ┣ 📂 03-data-migration-dms
+┃ ┃ ┣ 📂 04-stepfunctions-orchestration
+┃ ┃ ┣ 📂 05-amazon-aurora-highavailability
+┃ ┃ ┗ 📂 06-graphql-api-appsync
+┃ ┣ 📂 complex
+┃ ┃ ┣ 📂 01-multiregion-activeactive-rds
+┃ ┃ ┣ 📂 02-data-lakehouse-redshift-s3
+┃ ┃ ┣ 📂 03-data-governance-lakeformation
+┃ ┃ ┣ 📂 04-hybrid-cloud-aws-outposts-s3
+┃ ┃ ┣ 📂 05-edge-computing-greengrass
+┃ ┃ ┣ 📂 06-security-compliance-macie-guardduty
+┃ ┃ ┣ 📂 07-codeartifact-codepipeline
+┃ ┃ ┣ 📂 08-serverless-container-fargate
+┃ ┃ ┣ 📂 09-rds-proxy-aurora-optimization
+┃ ┃ ┗ 📂 10-serverless-container-lambda
+┣ 📂 devops-projects
+┃ ┣ 📂 easy
+┃ ┃ ┣ 📂 01-ci-cd-jenkins-docker
+┃ ┃ ┣ 📂 02-ci-cd-jenkins-ec2
+┃ ┃ ┣ 📂 03-kubernetes-cluster-kops
+┃ ┃ ┣ 📂 04-kubernetes-cluster-terraform
+┃ ┃ ┣ 📂 05-automated-deployment-codebuild
+┃ ┃ ┗ 📂 06-ci-cd-jenkins-github-elastic-beanstalk
+┃ ┣ 📂 medium
+┃ ┃ ┣ 📂 01-automated-deployment-codedeploy
+┃ ┃ ┣ 📂 02-containerized-microservices-ecs
+┃ ┃ ┣ 📂 03-stepfunctions-orchestration
+┃ ┃ ┣ 📂 04-realtime-dataanalytics-kinesis-lambda
+┃ ┃ ┣ 📂 05-containerized-microservices-eks
+┃ ┃ ┗ 📂 06-automated-microservices-deployment-ecs-cicd
+┃ ┣ 📂 hard
+┃ ┃ ┣ 📂 01-deploying-microservices-ecs
+┃ ┃ ┣ 📂 02-music-streaming-service-aws
+┃ ┃ ┣ 📂 03-video-streaming-service-aws
+┃ ┃ ┣ 📂 04-serverless-webapp-aws-amplify
+┃ ┃ ┣ 📂 05-scalable-node.js-app-deployment-elastic-beanstalk
+┃ ┃ ┗ 📂 06-enterprise-application-deployment-kubernetes-terraform-ansible-gitlab
+┃ ┣ 📂 complex
+┃ ┃ ┣ 📂 01-ecs-bluegreen-deployment
+┃ ┃ ┣ 📂 02-music-streaming-portal-amazonmusic
+┃ ┃ ┣ 📂 03-video-streaming-netflix
+┃ ┃ ┣ 📂 04-image-processing-sagemaker
+┃ ┃ ┣ 📂 05-advanced-cicd-pipeline-codepipeline
+┃ ┃ ┣ 📂 06-sagemaker-ml-pipeline
+┃ ┃ ┣ 📂 07-realtime-video-processing-kinesis-s3
+┃ ┃ ┗ 📂 08-full-stack-cicd-pipeline-jenkins-aws-codedeploy-nginx
+   </pre>
+   </details>
+</div>
 
 ---
 <h1 align="center">🔗 Connect with Me</h1>
