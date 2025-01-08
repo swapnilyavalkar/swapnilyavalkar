@@ -225,10 +225,12 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
 
 <h1 align="center">☁️ AWS & DevOps Projects</h1>
 
-<div align="center">
-  <a href="https://github.com/swapnilyavalkar/aws-devops-realworld-projects">
-    <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=swapnilyavalkar&repo=aws-devops-realworld-projects&cache_seconds=86400&theme=tokyonight" />
+<div align="center" style="border: 1px solid #444; padding: 15px; border-radius: 10px; background-color: #1e1e2e; color: white; width: 400px;">
+  <a href="https://github.com/swapnilyavalkar/aws-devops-realworld-projects" style="text-decoration: none;">
+    <h3 style="margin: 0; font-size: 18px; color: #63b5f6;">aws-devops-realworld-projects</h3>
+    <p style="font-size: 14px; color: #aaa;">🚀 Hands-on AWS & DevOps projects showcasing CI/CD, Kubernetes, Docker, Terraform, serverless, & more. Real-world use cases for mastering cloud tech!</p>
   </a>
+  <hr style="border-color: #444; margin: 10px 0;" />
   <details>
     <summary style="cursor: pointer; font-size: 14px; color: #63b5f6; font-weight: bold;">📂 Click to Expand Repository Structure</summary>
     <pre style="text-align: left; color: #dcdcdc; background: none; font-size: 14px; margin-top: 10px; padding: 10px; overflow-x: auto;">
