@@ -27,24 +27,24 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
 ---
 <h1 align="center">🎓 Certifications</h1>
 
-<div style="display: flex; flex-direction: column; gap: 5px;">
+<div>
 
   <!-- AWS Certification -->
-  <div style="display: flex; align-items: center; gap: 5px;">
+  <div>
     <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
-    <span style="font-weight: bold;">AWS Certified Solutions Architect - Professional</span>
+   &nbsp;&nbsp;&nbsp;<strong>AWS Certified Solutions Architect - Professional</strong>
   </div>
 
   <!-- Java Certification -->
-  <div style="display: flex; align-items: center; gap: 5px;">
+  <div>
     <img src="https://img.shields.io/badge/SCJP%20-%23F89820.svg?style=plastic&logo=java&logoColor=red" alt="Java Badge" />
-    <span style="font-weight: bold;">Sun Certified Java Programmer</span>
+   &nbsp;&nbsp;&nbsp;<strong>Sun Certified Java Programmer</strong>
   </div>
 
   <!-- Cisco Certification -->
-  <div style="display: flex; align-items: center; gap: 5px;">
+  <div>
     <img src="https://img.shields.io/badge/Cisco-%23049FD9.svg?style=plastic&logo=cisco&logoColor=white" alt="Cisco Badge" />
-    <span style="font-weight: bold;">Cisco Certified Network Associate</span>
+   &nbsp;&nbsp;&nbsp;<strong>Cisco Certified Network Associate</strong>
   </div>
 
 </div>
