@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/github/repo-size/ik-workshop/workshop-blueprint?style=plastic" alt="Repository Size" /></a> <img src="https://img.shields.io/github/languages/top/swapnilyavalkar/Wanderlust-Mega-Project?style=plastic" alt="Top Language" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=3500&pause=50&color=007ACCF8&center=true&vCenter=true&width=3000&lines=Welcome+to+my+GitHub+Profile!;I'm+Swapnil+Yavalkar%2C+working+as+a+Cloud%2FDevOps+Engineer.;I'm+passionate+about+Cloud+and+DevOps.;Lifelong+Learner!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=5000&pause=50&color=007ACCF8&center=true&vCenter=true&width=3000&height=65&lines=Welcome+to+my+GitHub+Profile!;I'm+Swapnil+Yavalkar%2C+working+as+a+Cloud%2FDevOps+Engineer.;I'm+passionate+about+Cloud+and+DevOps.;Lifelong+Learner!)](https://git.io/typing-svg)
 
 ---
 <h1 align="center">🧑‍💻 About Me</h1>
@@ -338,4 +338,4 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="Trophies" width="90%"/>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=3500&pause=50&color=007ACCF8&center=true&vCenter=true&width=3000&lines=Thank+you+for+visiting!+Feel+free+to+connect+with+me+for+collaborations." alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=5000&pause=50&color=007ACCF8&center=true&vCenter=true&width=3000&height=65&lines=Thank+you+for+visiting!+Feel+free+to+connect+with+me+for+collaborations." alt="Typing SVG" /></a>
