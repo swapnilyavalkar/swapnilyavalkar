@@ -52,54 +52,53 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
 ---
 <h1 align="center">💻 Tech Stack</h1>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 20px;">
-
-  <!-- Left Column: Tech Stack -->
-  <div style="flex: 1; min-width: 300px;">
-
-### Languages  
-
-   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white)
-   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white)
-   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-   ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%2312100E.svg?style=plastic&logo=gnu-bash&logoColor=white)
-   ![YAML](https://img.shields.io/badge/YAML-%2312100E.svg?style=plastic&logo=yaml&logoColor=white)
-
-### Cloud Platforms  
-
-   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-   ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=plastic&logo=awslambda&logoColor=white)
-   ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%230071C5.svg?style=plastic&logo=amazon-rds&logoColor=white)
-   ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
-   ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-   ![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-%23FF4F8B.svg?style=plastic&logo=amazoncloudfront&logoColor=white)
-
-### DevOps Tools  
-
-   ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-   ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-   ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
-   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-   ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
-   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-
-### Automation & Monitoring  
-
-   ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=plastic&logo=prometheus&logoColor=white)
-   ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
-   ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-%230071C5.svg?style=plastic&logo=elasticstack&logoColor=white)
-   ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-   ![SonarQube](https://img.shields.io/badge/SonarQube-%230071C5.svg?style=plastic&logo=sonarqube&logoColor=white)
-
-  </div>
-
-  <!-- Right Column: Image -->
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="images/coder.gif" alt="Coder GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- Left Column: Tech Stack -->
+    <td style="vertical-align: top; width: 60%;">
+      <h3>Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" alt="Java Badge">
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt="Python Badge">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white" alt="JavaScript Badge">
+        <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white" alt="Node.js Badge">
+        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript Badge">
+        <img src="https://img.shields.io/badge/Shell_Scripting-%2312100E.svg?style=plastic&logo=gnu-bash&logoColor=white" alt="Shell Scripting Badge">
+        <img src="https://img.shields.io/badge/YAML-%2312100E.svg?style=plastic&logo=yaml&logoColor=white" alt="YAML Badge">
+      </p>
+      <h3>Cloud Platforms</h3>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS Badge">
+        <img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=plastic&logo=awslambda&logoColor=white" alt="AWS Lambda Badge">
+        <img src="https://img.shields.io/badge/AWS%20RDS-%230071C5.svg?style=plastic&logo=amazon-rds&logoColor=white" alt="AWS RDS Badge">
+        <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
+        <img src="https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS CloudFormation Badge">
+        <img src="https://img.shields.io/badge/AWS%20CloudFront-%23FF4F8B.svg?style=plastic&logo=amazoncloudfront&logoColor=white" alt="AWS CloudFront Badge">
+      </p>
+      <h3>DevOps Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker Badge">
+        <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white" alt="Terraform Badge">
+        <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white" alt="Jenkins Badge">
+        <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" alt="GitHub Actions Badge">
+        <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white" alt="Ansible Badge">
+        <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git Badge">
+      </p>
+      <h3>Automation & Monitoring</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=plastic&logo=prometheus&logoColor=white" alt="Prometheus Badge">
+        <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white" alt="Grafana Badge">
+        <img src="https://img.shields.io/badge/ELK%20Stack-%230071C5.svg?style=plastic&logo=elasticstack&logoColor=white" alt="ELK Stack Badge">
+        <img src="https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS CloudWatch Badge">
+        <img src="https://img.shields.io/badge/SonarQube-%230071C5.svg?style=plastic&logo=sonarqube&logoColor=white" alt="SonarQube Badge">
+      </p>
+    </td>
+    <!-- Right Column: Image -->
+    <td style="text-align: center; vertical-align: top;">
+      <img src="images/coder.gif" alt="Coder GIF" style="max-width: 100%; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
