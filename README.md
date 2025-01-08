@@ -231,9 +231,7 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
     <p style="font-size: 14px; color: #aaa;">🚀 Hands-on AWS & DevOps projects showcasing CI/CD, Kubernetes, Docker, Terraform, serverless, & more. Real-world use cases for mastering cloud tech!</p>
   </a>
   <hr style="border-color: #444; margin: 10px 0;" />
-  <details>
-    <summary style="cursor: pointer; font-size: 14px; color: #63b5f6; font-weight: bold;">📂 Click to Expand Repository Structure</summary>
-    <pre style="text-align: left; color: #dcdcdc; background: none; font-size: 14px; margin-top: 10px; padding: 10px; overflow-x: auto;">
+  <pre style="text-align: left; color: #dcdcdc; background: none; font-size: 14px; margin: 0; padding: 10px; overflow-x: auto;">
 📦 aws-devops-realworld-projects
 ┣ 📂 aws-infrastructure-projects
 ┃ ┣ 📂 easy
@@ -302,7 +300,6 @@ Here are some **key projects** I’ve worked on, showcasing my experience in **A
 ┃ ┃ ┣ 📂 07-realtime-video-processing-kinesis-s3
 ┃ ┃ ┗ 📂 08-full-stack-cicd-pipeline-jenkins-aws-codedeploy-nginx
    </pre>
-   </details>
 </div>
 
 ---
