@@ -8,9 +8,7 @@
         <img src="https://img.shields.io/github/followers/swapnilyavalkar?style=plastic" alt="GitHub Followers" />
     </a> <img src="https://komarev.com/ghpvc/?username=swapnilyavalkar&style=plastic" alt="Profile Views" />
    <img src="https://img.shields.io/github/stars/ik-workshop/workshop-blueprint?style=plastic" alt="GitHub Stars" />
-   <img src="https://img.shields.io/github/commit-activity/m/ik-workshop/workshop-blueprint?style=plastic" alt="Commit Activity" /> <img src="https://img.shields.io/github/last-commit/swapnilyavalkar/DevOps-Projects?style=plastic&color=blue" alt="Last Commit" /> <a href="https://github.com/swapnilyavalkar/.github/blob/main/LICENSE" target="_blank">
-        <img src="https://img.shields.io/github/license/swapnilyavalkar/dynamicweb-nodeapp?style=plastic&color=blue" alt="License" >
-    </a><a href="https://github.com/ik-workshop/workshop-blueprint" target="_blank">
+   <img src="https://img.shields.io/github/commit-activity/m/ik-workshop/workshop-blueprint?style=plastic" alt="Commit Activity" /> <img src="https://img.shields.io/github/last-commit/swapnilyavalkar/DevOps-Projects?style=plastic&color=blue" alt="Last Commit" /> <a href="https://github.com/swapnilyavalkar/.github/blob/main/LICENSE" target="_blank"> <img src="https://img.shields.io/github/license/swapnilyavalkar/dynamicweb-nodeapp?style=plastic&color=blue" alt="License" ></a><a href="https://github.com/ik-workshop/workshop-blueprint" target="_blank">
         <img src="https://img.shields.io/github/languages/code-size/ik-workshop/workshop-blueprint?style=plastic" alt="Code Size" /></a><a href="https://github.com/ik-workshop/workshop-blueprint" target="_blank">
         <img src="https://img.shields.io/github/repo-size/ik-workshop/workshop-blueprint?style=plastic" alt="Repository Size" /></a> <img src="https://img.shields.io/github/languages/top/swapnilyavalkar/aws-devops-realworld-projects?style=plastic" alt="Top Language" />
 </p>
