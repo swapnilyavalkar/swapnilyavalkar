@@ -1,5 +1,5 @@
 <p align="center" style="vertical-align: top;">
-    <img src="images/devops.gif" alt="Coder GIF" width="600px" style="border-radius: 0px;">
+    <img src="images/devops.gif" alt="Coder GIF" width="600px" height="250px" style="border-radius: 0px;">
 </p>
 
 <p align="left">
