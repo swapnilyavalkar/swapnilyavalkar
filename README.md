@@ -115,6 +115,7 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
     </td>
   </tr>
 </table>
+
 ---
 
 <h1 align="center">🏆 Some Completed Projects</h1>
