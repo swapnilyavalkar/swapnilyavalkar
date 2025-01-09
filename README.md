@@ -48,7 +48,7 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
 </div>
 
 ---
-<h1 align="center">💻 Tech Stack</h1>
+<h1 align="center">✨ Tech Stack</h1>
 
 <table style="border-collapse: collapse; width: 100%; border: 0px solid white;">
   <tr>
@@ -58,26 +58,43 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
       <p>
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" alt="Java Badge">
         <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt="Python Badge">
+        <img src="https://img.shields.io/badge/Boto3-%23F7DF1E.svg?style=plastic&logo=boto3&logoColor=white" alt="Boto3 Badge">
         <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white" alt="JavaScript Badge">
         <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white" alt="Node.js Badge">
         <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript Badge">
         <img src="https://img.shields.io/badge/Shell_Scripting-%2312100E.svg?style=plastic&logo=gnu-bash&logoColor=white" alt="Shell Scripting Badge">
+        <img src="https://img.shields.io/badge/PowerShell-%2300599C.svg?style=plastic&logo=powershell&logoColor=white" alt="PowerShell Badge">
         <img src="https://img.shields.io/badge/YAML-%2312100E.svg?style=plastic&logo=yaml&logoColor=white" alt="YAML Badge">
       </p>
       <h3>Cloud Platforms</h3>
       <p>
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS Badge">
-        <img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=plastic&logo=awslambda&logoColor=white" alt="AWS Lambda Badge">
-        <img src="https://img.shields.io/badge/AWS%20RDS-%230071C5.svg?style=plastic&logo=amazon-rds&logoColor=white" alt="AWS RDS Badge">
-        <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
-        <img src="https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS CloudFormation Badge">
-        <img src="https://img.shields.io/badge/AWS%20CloudFront-%23FF4F8B.svg?style=plastic&logo=amazoncloudfront&logoColor=white" alt="AWS CloudFront Badge">
+        <img src="https://img.shields.io/badge/EC2-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="EC2 Badge">
+        <img src="https://img.shields.io/badge/VPC-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="VPC Badge">
+        <img src="https://img.shields.io/badge/Route%2053-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="Route 53 Badge">
+        <img src="https://img.shields.io/badge/ELB-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="ELB Badge">
+        <img src="https://img.shields.io/badge/CloudFront-%23FF9900.svg?style=plastic&logo=amazoncloudfront&logoColor=white" alt="CloudFront Badge">
+        <img src="https://img.shields.io/badge/S3-%23FF9900.svg?style=plastic&logo=amazon-s3&logoColor=white" alt="S3 Badge">
+        <img src="https://img.shields.io/badge/EFS-%23FF9900.svg?style=plastic&logo=amazon-efs&logoColor=white" alt="EFS Badge">
+        <img src="https://img.shields.io/badge/RDS-%230071C5.svg?style=plastic&logo=amazon-rds&logoColor=white" alt="RDS Badge">
+        <img src="https://img.shields.io/badge/DynamoDB-%230071C5.svg?style=plastic&logo=amazondynamodb&logoColor=white" alt="DynamoDB Badge">
+        <img src="https://img.shields.io/badge/IAM-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="IAM Badge">
+        <img src="https://img.shields.io/badge/ECS-%23FF9900.svg?style=plastic&logo=amazon-ecs&logoColor=white" alt="ECS Badge">
+        <img src="https://img.shields.io/badge/EKS-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white" alt="EKS Badge">
+        <img src="https://img.shields.io/badge/Fargate-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="Fargate Badge">
+        <img src="https://img.shields.io/badge/Secrets%20Manager-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="Secrets Manager Badge">
+        <img src="https://img.shields.io/badge/WAF-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="WAF Badge">
+        <img src="https://img.shields.io/badge/Transit%20Gateway-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="Transit Gateway Badge">
+        <img src="https://img.shields.io/badge/Backup-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="Backup Badge">
+        <img src="https://img.shields.io/badge/KMS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="KMS Badge">
+        <img src="https://img.shields.io/badge/Shield-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="Shield Badge">
       </p>
       <h3>DevOps Tools</h3>
       <p>
         <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker Badge">
         <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white" alt="Terraform Badge">
         <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white" alt="Jenkins Badge">
+        <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub Badge">
         <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" alt="GitHub Actions Badge">
         <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white" alt="Ansible Badge">
         <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git Badge">
@@ -89,15 +106,15 @@ I’m passionate about **cloud computing, automation**, and **DevOps**, and I've
         <img src="https://img.shields.io/badge/ELK%20Stack-%230071C5.svg?style=plastic&logo=elasticstack&logoColor=white" alt="ELK Stack Badge">
         <img src="https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS CloudWatch Badge">
         <img src="https://img.shields.io/badge/SonarQube-%230071C5.svg?style=plastic&logo=sonarqube&logoColor=white" alt="SonarQube Badge">
+        <img src="https://img.shields.io/badge/Splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white" alt="Splunk Badge">
       </p>
     </td>
     <!-- Right Column: Image -->
     <td style="text-align: center; vertical-align: top;">
-      <img src="images/coder.gif" alt="Coder GIF" style="max-width: 100%; border-radius: 0px;" />
+      <img src="images/coder.gif" alt="Coder GIF" style="max-width: 200%; border-radius: 0px;" />
     </td>
   </tr>
 </table>
-
 ---
 
 <h1 align="center">🏆 Some Completed Projects</h1>
